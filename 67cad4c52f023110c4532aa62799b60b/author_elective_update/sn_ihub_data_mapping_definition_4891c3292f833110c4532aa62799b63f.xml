@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>178147e52f833110c4532aa62799b680</record_id>
+        <source_structure/>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 17:21:28</sys_created_on>
+        <sys_id>4891c3292f833110c4532aa62799b63f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_4891c3292f833110c4532aa62799b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:21:34</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sn_ihub_data_mapping_definition_4891c3292f833110c4532aa62799b63f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>178147e52f833110c4532aa62799b680</record_id><source_structure/><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 17:21:28</sys_created_on><sys_id>4891c3292f833110c4532aa62799b63f</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_4891c3292f833110c4532aa62799b63f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 17:21:34</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>-1231560724</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3efc178bb4a32110320f8dc279c80415</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-11 17:26:05</sys_created_on>
+        <sys_id>7f92c3a92f833110c4532aa62799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c59ea235d0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:26:05</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>7b92c3a9f4833110673eb08fc2f8a834</update_guid>
+        <update_guid_history>7b92c3a9f4833110673eb08fc2f8a834:0,ff92c3a9e1833110886f5509878cfa31:0,e99183a5bf83311076b62ee3eef79671:-588049057,4891c3293f8331106d8729d8a75dac4d:2093756333</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3b92c3a92f833110c4532aa62799b646</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-11 17:26:06</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>498d48a98406400ea6f5f0dab680a7c9</sys_id>
+        <sys_metadata>4891c3292f833110c4532aa62799b63f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_4891c3292f833110c4532aa62799b63f</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_4891c3292f833110c4532aa62799b63f">7f92c3a92f833110c4532aa62799b634</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:26:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

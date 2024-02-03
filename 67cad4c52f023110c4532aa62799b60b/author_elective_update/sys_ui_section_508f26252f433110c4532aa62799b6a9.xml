@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="508f26252f433110c4532aa62799b6a9" sys_domain="global" table="x_744286_informaco_aprova_es_infoti" version="3" view="workspace-informações-infoti-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:40:36</sys_created_on>
+            <sys_id>f83495422fcb7110c4532aa62799b6c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>gerente_especialista</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:40:36</sys_created_on>
+            <sys_id>fc3495422fcb7110c4532aa62799b6c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:40:36</sys_created_on>
+            <sys_id>f03495422fcb7110c4532aa62799b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:40:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>aprovadores</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:40:36</sys_created_on>
+            <sys_id>f43495422fcb7110c4532aa62799b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ponto_focal</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:40:36</sys_created_on>
+            <sys_id>f83495422fcb7110c4532aa62799b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:40:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_744286_informaco_aprova_es_infoti</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 16:02:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>508f26252f433110c4532aa62799b6a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_744286_informaco_aprova_es_infoti</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_ui_section_508f26252f433110c4532aa62799b6a9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 16:02:33</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Informações InfoTI 0" name="workspace-informações-infoti-0">0a6f6ee1e1433110b10ce090cd5cd5ba</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ui_section_508f26252f433110c4532aa62799b6a9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="508f26252f433110c4532aa62799b6a9" sys_domain="global" table="x_744286_informaco_aprova_es_infoti" version="3" view="workspace-informações-infoti-0"><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-12 22:40:36</sys_created_on><sys_id>f83495422fcb7110c4532aa62799b6c5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-12 22:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>gerente_especialista</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-12 22:40:36</sys_created_on><sys_id>fc3495422fcb7110c4532aa62799b6c5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-12 22:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-12 22:40:36</sys_created_on><sys_id>f03495422fcb7110c4532aa62799b6c6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-12 22:40:36</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>aprovadores</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-12 22:40:36</sys_created_on><sys_id>f43495422fcb7110c4532aa62799b6c6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-12 22:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ponto_focal</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-12 22:40:36</sys_created_on><sys_id>f83495422fcb7110c4532aa62799b6c6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">508f26252f433110c4532aa62799b6a9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-12 22:40:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_744286_informaco_aprova_es_infoti</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 16:02:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>508f26252f433110c4532aa62799b6a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_744286_informaco_aprova_es_infoti</sys_name><sys_overrides/><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_ui_section_508f26252f433110c4532aa62799b6a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 16:02:33</sys_updated_on><sys_user/><title>true</title><view display_value="Workspace Informações InfoTI 0" name="workspace-informações-infoti-0">0a6f6ee1e1433110b10ce090cd5cd5ba</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-823939324</payload_hash>
+        <record_name>Aprovações InfoTI</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 22:40:36</sys_created_on>
+        <sys_id>bc34d5422fcb7110c4532aa62799b61f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c603071de0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 22:40:36</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>7434d54285cb7110a1bb78fa49de0b1f</update_guid>
+        <update_guid_history>7434d54285cb7110a1bb78fa49de0b1f:-823939324,f034954283cb711005f067ee7979aac4:1425769554</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 14:57:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>05d007253d9a4dbb824db07adaefff61</sys_id>
+        <sys_metadata>508f26252f433110c4532aa62799b6a9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_744286_informaco_aprova_es_infoti</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent display_value="Aprovações InfoTI">b0b2ee902f123110c4532aa62799b69c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ui_section_508f26252f433110c4532aa62799b6a9</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_508f26252f433110c4532aa62799b6a9">bc34d5422fcb7110c4532aa62799b61f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 14:57:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Ribbon Config ID</description>
+        <name>ribbonConfigId</name>
+        <page display_value="">8e6f6ee16a433110dff7a731d34d52c4</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 16:02:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>026f6ee1f843311078928b9872660db3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_page_property_026f6ee1f843311078928b9872660db3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 16:02:11</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_744286_informaco.8e6f6ee16a433110dff7a731d34d52c4.root.ribbonConfigId</unique_name>
+        <value>8a6f6ee19c43311076b3cb77b38d06b2</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ux_page_property_026f6ee1f843311078928b9872660db3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Ribbon Config ID</description><name>ribbonConfigId</name><page display_value="">8e6f6ee16a433110dff7a731d34d52c4</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 16:02:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>026f6ee1f843311078928b9872660db3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ribbonConfigId</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_ux_page_property_026f6ee1f843311078928b9872660db3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 16:02:11</sys_updated_on><type>string</type><unique_name>x_744286_informaco.8e6f6ee16a433110dff7a731d34d52c4.root.ribbonConfigId</unique_name><value>8a6f6ee19c43311076b3cb77b38d06b2</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>943470973</payload_hash>
+        <record_name>ribbonConfigId</record_name>
+        <reverted_from/>
+        <source>e2dec6222f023110c4532aa62799b65c</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-25 23:11:02</sys_created_on>
+        <sys_id>e3294c312fc73110c4532aa62799b616</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b691b0b700000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>a3294c31f7c731101f3ba91155456c16</update_guid>
+        <update_guid_history>a3294c31f7c731101f3ba91155456c16:943470973</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 22:34:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>42b9ad2ec3de4bf896c31856cd5b8e64</sys_id>
+        <sys_metadata>026f6ee1f843311078928b9872660db3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ribbonConfigId</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_026f6ee1f843311078928b9872660db3</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_026f6ee1f843311078928b9872660db3">e3294c312fc73110c4532aa62799b616</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 22:34:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

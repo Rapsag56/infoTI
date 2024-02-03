@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8a30a04d2f023110c4532aa62799b6c9" extends="sys_import_set_row" label="Subcategoria ImportSET" max_length="40" name="x_744286_informaco_subcategoria_importset" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Categoria" label="Categoria" max_length="40" name="u_categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID CATEGORIA" label="ID CATEGORIA" max_length="40" name="u_id_categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID SUBCAT" label="ID SUBCAT" max_length="40" name="u_id_subcat" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=REG VIG" label="REG VIG" max_length="40" name="u_reg_vig" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Subcategoria" label="Subcategoria" max_length="44" name="u_subcategoria" type="string"/>
+    </element>
+</database>

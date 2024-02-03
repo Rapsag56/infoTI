@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>Reprovar</action_name>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+var sys_id = current.sys_id;
+var user = gs.getUserID();
+var gr = new GlideRecord('sysapproval_approver');
+gr.addEncodedQuery('sysapproval=' + sys_id + '^state=requested^approver=' + user);
+gr.query();
+if (gr.next()) {
+    gr.state = 'rejected';
+    gr.update('Tarefa Reprovada!');
+
+    var grApr = new GlideRecord('x_744286_informaco_aprova_es_infoti');
+    grApr.get(sys_id);
+    //grApr.u_state = 3;
+	//grApr.aprovador = user;
+	grApr.approval = 'rejected';
+	grApr.comments = 'Tarefa reprovada por ' + gs.getUserDisplayName() + '.';
+   // grApr.update('Tarefa salva com sucesso');
+    action.openGlideRecord(grApr);
+	gs.addInfoMessage("A Tarefa foi reprovada");
+	
+}
+
+}]]></client_script_v2>
+        <comments/>
+        <condition>current.status_da_solicitacao=="aguardando_gerente"||current.status_da_solicitacao=="aguardando_executivo"||current.status_da_solicitacao=="aguardando_gerente_infoti";</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>true</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style>destructive</form_style>
+        <format_for_configurable_workspace>true</format_for_configurable_workspace>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style>primary</list_style>
+        <messages/>
+        <name>Reprovar</name>
+        <onclick/>
+        <order>99</order>
+        <script><![CDATA[var sys_id = current.sys_id;
+var user = gs.getUserID();
+var gr = new GlideRecord('sysapproval_approver');
+gr.addEncodedQuery('sysapproval=' + sys_id + '^state=requested^approver=' + user);
+gr.query();
+if (gr.next()) {
+    gr.state = 'rejected';
+    gr.update('Tarefa Reprovada!');
+
+    var grApr = new GlideRecord('x_744286_informaco_aprova_es_infoti');
+    grApr.get(sys_id);
+    //grApr.u_state = 3;
+	//grApr.aprovador = user;
+	grApr.approval = 'rejected';
+	grApr.comments = 'Tarefa reprovada por ' + gs.getUserDisplayName() + '.';
+   // grApr.update('Tarefa salva com sucesso');
+    action.openGlideRecord(grApr);
+	gs.addInfoMessage("A Tarefa foi reprovada");
+	
+}]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 20:14:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fb4c39162f4fb110c4532aa62799b675</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reprovar</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ui_action_fb4c39162f4fb110c4532aa62799b675</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 20:14:20</sys_updated_on>
+        <table>x_744286_informaco_aprova_es_infoti</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

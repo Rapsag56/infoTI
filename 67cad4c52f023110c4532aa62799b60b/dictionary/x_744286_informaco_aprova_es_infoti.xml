@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="b0b2ee902f123110c4532aa62799b69c" extends="task" label="Aprovações InfoTI" max_length="40" name="x_744286_informaco_aprova_es_infoti" text_index="true" type="collection">
+        <element choice="1" label="Aceitar a solicitação" max_length="40" name="aceitar_a_solicitacao" read_only="true" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Não" value="2"/>
+                <element inactive_on_update="false" label="Sim" value="1"/>
+            </choice>
+        </element>
+        <element label="Gerente Aprovador (Info TI)" max_length="4000" name="aprovadores" reference="sys_user" type="glide_list"/>
+        <element label="Executivo Aprovador" max_length="4000" name="executivo_aprovador" reference="sys_user" type="glide_list"/>
+        <element label="Gerente /Especialista" max_length="4000" name="gerente_especialista" reference="sys_user" type="glide_list"/>
+        <element label="Gerente Validador" max_length="4000" name="gerente_validador" reference="sys_user" type="glide_list"/>
+        <element label="Justificativa" max_length="1000" name="justificativa" type="string"/>
+        <element label="Número da Aprovação" max_length="32" name="numero_da_aprovacao" reference="x_744286_informaco_informacoes_infoti" type="reference"/>
+        <element label="Ponto Focal(is)" max_length="4000" name="ponto_focal" reference="sys_user" type="glide_list"/>
+        <element label="Relatório Destinatário" max_length="32" name="relatorio_destinatario" reference="x_744286_informaco_relat_rio_destinatario" type="reference"/>
+        <element label="Resposta" max_length="2000" name="resposta" type="string"/>
+        <element label="Solicitação" max_length="1000" name="solitacao" type="string"/>
+        <element choice="1" label="Status da Solicitação" max_length="40" name="status_da_solicitacao" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Em Edição" sequence="100" value="em_edicao"/>
+                <element inactive_on_update="false" label="Aguardando Gerente (infoTi)" sequence="200" value="aguardando_gerente_infoti"/>
+                <element inactive_on_update="false" label="Aguardando Aceite" sequence="300" value="aguardando_aceite"/>
+                <element inactive_on_update="false" label="Em Andamento" sequence="400" value="em_andamento"/>
+                <element inactive_on_update="false" label="Aguardando Gerente" sequence="500" value="aguardando_gerente"/>
+                <element inactive_on_update="false" label="Aguardando Executivo" sequence="600" value="aguardando_executivo"/>
+                <element inactive_on_update="false" label="Consolidação" sequence="700" value="consolidacao"/>
+                <element inactive_on_update="false" label="Concluído" sequence="800" value="concluido"/>
+                <element inactive_on_update="false" label="Excluído" sequence="900" value="excluido"/>
+            </choice>
+        </element>
+        <element label="Tema" max_length="4000" name="tema" reference="x_744286_informaco_temas_info_ti_v2" type="glide_list"/>
+        <element label="teste" max_length="500" name="teste" type="string"/>
+        <element choice="1" label="Tipo de Informação" max_length="40" name="tipo_de_informacao" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Confidencial" value="confidencial"/>
+                <element inactive_on_update="false" label="Interna" value="interna"/>
+                <element inactive_on_update="false" label="Pública" value="publica"/>
+            </choice>
+        </element>
+    </element>
+</database>

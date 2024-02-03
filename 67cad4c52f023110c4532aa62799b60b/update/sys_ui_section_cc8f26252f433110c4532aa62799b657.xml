@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="cc8f26252f433110c4532aa62799b657" sys_domain="global" table="x_744286_informaco_informacoes_infoti" version="3" view="workspace-informações-infoti-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategoria</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>d89f0d0e2f8b7110c4532aa62799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategoria.categoria</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>dc9f0d0e2f8b7110c4532aa62799b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>periodo_v2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>d09f0d0e2f8b7110c4532aa62799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>trimestre</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>d49f0d0e2f8b7110c4532aa62799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>d89f0d0e2f8b7110c4532aa62799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>valor</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>dc9f0d0e2f8b7110c4532aa62799b6e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tema</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>d09f0d0e2f8b7110c4532aa62799b6e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>pontos_de_atencao</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>d49f0d0e2f8b7110c4532aa62799b6e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mensal</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>d89f0d0e2f8b7110c4532aa62799b6e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 22:20:21</sys_created_on>
+            <sys_id>dc9f0d0e2f8b7110c4532aa62799b6e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_744286_informaco_informacoes_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">cc8f26252f433110c4532aa62799b657</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 22:20:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_744286_informaco_informacoes_infoti</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 16:02:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc8f26252f433110c4532aa62799b657</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_744286_informaco_informacoes_infoti</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_ui_section_cc8f26252f433110c4532aa62799b657</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 16:02:33</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Workspace Informações InfoTI 0" name="workspace-informações-infoti-0">0a6f6ee1e1433110b10ce090cd5cd5ba</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

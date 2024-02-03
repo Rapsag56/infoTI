@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Aprovações InfoTI Record Page">ee6944712fc73110c4532aa62799b67d</macroponent>
+        <name>form_1/view</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return '';
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 23:56:10</sys_created_on>
+        <sys_id>4fa837ee2fc33510c4532aa62799b63f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>form_1/view</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_client_script_4fa837ee2fc33510c4532aa62799b63f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 23:56:10</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ux_client_script_4fa837ee2fc33510c4532aa62799b63f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Aprovações InfoTI Record Page"&gt;ee6944712fc73110c4532aa62799b67d&lt;/macroponent&gt;&lt;name&gt;form_1/view&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+  * @param {params} params
+  * @param {api} params.api
+  * @param {TransformApiHelpers} params.helpers
+  */
+function evaluateProperty({api, helpers}) {
+	return '';
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-14 23:56:10&lt;/sys_created_on&gt;&lt;sys_id&gt;4fa837ee2fc33510c4532aa62799b63f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;form_1/view&lt;/sys_name&gt;&lt;sys_package display_value="Informações InfoTI" source="x_744286_informaco"&gt;67cad4c52f023110c4532aa62799b60b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Informações InfoTI"&gt;67cad4c52f023110c4532aa62799b60b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_4fa837ee2fc33510c4532aa62799b63f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-14 23:56:10&lt;/sys_updated_on&gt;&lt;target&gt;macroponent&lt;/target&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>233528308</payload_hash>
+        <record_name>form_1/view</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 23:56:10</sys_created_on>
+        <sys_id>5fa837ee2fc33510c4532aa62799b677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c6ac258cb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 23:56:10</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>d7a837eebfc335101068a20605f8db45</update_guid>
+        <update_guid_history>d7a837eebfc335101068a20605f8db45:233528308</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 02:11:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>0c93fc5c79ca4b6bb61481f399801a39</sys_id>
+        <sys_metadata>4fa837ee2fc33510c4532aa62799b63f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>form_1/view</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_4fa837ee2fc33510c4532aa62799b63f</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_4fa837ee2fc33510c4532aa62799b63f">5fa837ee2fc33510c4532aa62799b677</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 02:11:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

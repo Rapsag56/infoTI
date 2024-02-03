@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_toolbar</name>
+        <page display_value="Informações InfoTI">8e6f6ee16a433110dff7a731d34d52c4</page>
+        <required_translations>[ {
+  "message" : "Abrir",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 16:02:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c66f6ee112433110c6ccee0a22be07b2</sys_id>
+        <sys_mod_count>36</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_page_property_c66f6ee112433110c6ccee0a22be07b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 22:32:46</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_744286_informaco.8e6f6ee16a433110dff7a731d34d52c4.root.chrome_toolbar</unique_name>
+        <value>[{"id":"home","label":{"translatable":true,"message":"Home"},"order":null,"icon":"home-outline","routeInfo":{"route":"home"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"abrir-solicitacao","label":{"translatable":true,"message":"Abrir"},"order":100,"icon":"abc-outline","routeInfo":{"route":"abrir-solicitacao"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"list","label":{"translatable":true,"message":"List"},"order":200,"icon":"list-outline","routeInfo":{"route":"list"},"group":"top","badge":{},"presence":{},"availability":{}}]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=c66f6ee112433110c6ccee0a22be07b2"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ux_page_property_c66f6ee112433110c6ccee0a22be07b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_toolbar</name><page display_value="Informações InfoTI">8e6f6ee16a433110dff7a731d34d52c4</page><required_translations>[ {
+  "message" : "Abrir",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "List",
+  "comment" : ""
+} ]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 16:02:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>c66f6ee112433110c6ccee0a22be07b2</sys_id><sys_mod_count>36</sys_mod_count><sys_name>chrome_toolbar</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_ux_page_property_c66f6ee112433110c6ccee0a22be07b2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 22:32:46</sys_updated_on><type>json</type><unique_name>x_744286_informaco.8e6f6ee16a433110dff7a731d34d52c4.root.chrome_toolbar</unique_name><value>[{"id":"home","label":{"translatable":true,"message":"Home"},"order":null,"icon":"home-outline","routeInfo":{"route":"home"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"abrir-solicitacao","label":{"translatable":true,"message":"Abrir"},"order":100,"icon":"abc-outline","routeInfo":{"route":"abrir-solicitacao"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"list","label":{"translatable":true,"message":"List"},"order":200,"icon":"list-outline","routeInfo":{"route":"list"},"group":"top","badge":{},"presence":{},"availability":{}}]</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=c66f6ee112433110c6ccee0a22be07b2"/></record_update>]]></payload>
+        <payload_hash>-558912860</payload_hash>
+        <record_name>chrome_toolbar</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 22:32:46</sys_created_on>
+        <sys_id>10d840312fc73110c4532aa62799b613</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5b02e9db0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 22:32:46</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>18d8403140c731103d5b920e95bb4e12</update_guid>
+        <update_guid_history>18d8403140c731103d5b920e95bb4e12:-558912860,1ab8c0313dc731106cedb53c0ac8284b:1565622520,16880031b5c73110c08bbe2e00c92a98:-538239325,5348c8fded87311069d3eda8322bd3b9:-1106100647,e5480cbd92873110051fbee806b88a17:-1609340447,d62848bdcc87311066e0e1b9f9b83af6:-277200893,6ad6843d8387311095af60cfe5b7e01b:1814115329,4c96487d2987311093b2489a52cf3a3a:746672107,ff36c43da4873110579df82476b1bffb:-1102150117,c995807dc9873110b44c93b8633530fc:404125519,3e73c0f9a1873110ba6a67c2cf15fdb3:-1024029254,8143ccb91c873110746cc475d688c4eb:895309866,521304b96f8731105559b0034f984b3c:1582715514,adc244b96d8731109e0221aeab25ef7e:-1619497568,d99204b99a873110ac67977dcaa1e529:2118040464,986240b9c987311083ee322e602b20ad:-1790132159,7ac1087929873110f69f283e2784be4d:-1419610403,74e08439508731100afab9ac093c3635:1919583618,25c084399d873110875d88ca113cb1db:-985159900,55a0c8b532873110b053136c4fafec26:382367501,ef308cf5af873110ca7191704efb3a7f:1567704173,b2dff7e54e873110695b99a86af376a8:-2043708237,43cf33e5bc87311014572599aac8fe8b:1356575709,c8aff7a574873110a0d4bc2210bca44b:1417391333,a1de7f6560873110a46f73f2257ceca1:-1337312879,5c9eb3a5e987311011cdfee0a8a9495e:98206711,478ef765708731109b1af61102f57d9c:-344610415,a6edf76502873110c04c2bfaffd90402:-2064571080,967dff2573873110125652ee66df38b9:1221938105,b96d3b25428731103964bdd860f2e756:-344610415,4eccb3250d873110116d2778d83b60ef:-1210705329,149c7fe101873110f7972d17de3d1f6a:13379782,785c37e1ff873110a2fa6539b547f9fb:1732819323,fb185f2155073110cdb80465b3ba8ecf:-691892617,e4f757218a0731107d61288f8e14cfbb:691869194,a0d7972167073110cb6dae55ce15ee82:-691892617,28d79721a20731109deffee3e6127e80:949063862</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 22:34:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>003f31e8f9b0475f865df744c56df371</sys_id>
+        <sys_metadata>c66f6ee112433110c6ccee0a22be07b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_c66f6ee112433110c6ccee0a22be07b2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_c66f6ee112433110c6ccee0a22be07b2">10d840312fc73110c4532aa62799b613</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 22:34:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

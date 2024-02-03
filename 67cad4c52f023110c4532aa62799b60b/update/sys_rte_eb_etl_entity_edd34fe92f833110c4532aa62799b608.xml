@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <child_id_field/>
+        <name>Target_x_744286_informaco_solicitacoes</name>
+        <parent_entity/>
+        <parent_id_field/>
+        <path>x_744286_informaco_solicitacoes</path>
+        <run_business_rules>true</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 17:31:23</sys_created_on>
+        <sys_id>edd34fe92f833110c4532aa62799b608</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Target_x_744286_informaco_solicitacoes</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Solicitações Data Mapping_etl_ihub">4dd38be92f833110c4532aa62799b691</sys_rte_eb_definition>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_edd34fe92f833110c4532aa62799b608</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:31:23</sys_updated_on>
+        <table>x_744286_informaco_solicitacoes</table>
+    </sys_rte_eb_etl_entity>
+</record_update>

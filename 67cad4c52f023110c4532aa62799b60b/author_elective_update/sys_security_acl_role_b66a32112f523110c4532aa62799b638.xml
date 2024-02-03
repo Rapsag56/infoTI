@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 15:24:41</sys_created_on>
+        <sys_id>b66a32112f523110c4532aa62799b638</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_744286_informaco_contatos_info_ti.x_744286_informaco.temas_user</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_security_acl display_value="x_744286_informaco_contatos_info_ti">fa6a32112f523110c4532aa62799b635</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b66a32112f523110c4532aa62799b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-03 15:24:41</sys_updated_on>
+        <sys_user_role display_value="x_744286_informaco.temas_user" name="x_744286_informaco.temas_user">878a78cf2f4e3110c4532aa62799b6fe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_security_acl_role_b66a32112f523110c4532aa62799b638</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-03 15:24:41</sys_created_on><sys_id>b66a32112f523110c4532aa62799b638</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_744286_informaco_contatos_info_ti.x_744286_informaco.temas_user</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_security_acl display_value="x_744286_informaco_contatos_info_ti">fa6a32112f523110c4532aa62799b635</sys_security_acl><sys_update_name>sys_security_acl_role_b66a32112f523110c4532aa62799b638</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-03 15:24:41</sys_updated_on><sys_user_role display_value="x_744286_informaco.temas_user" name="x_744286_informaco.temas_user">878a78cf2f4e3110c4532aa62799b6fe</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-477516276</payload_hash>
+        <record_name>x_744286_informaco_contatos_info_ti.x_744286_informaco.temas_user</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 15:24:41</sys_created_on>
+        <sys_id>fa6a32112f523110c4532aa62799b63a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b95c953af0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-03 15:24:41</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>326a32110c523110116d9f0470d93c3a</update_guid>
+        <update_guid_history>326a32110c523110116d9f0470d93c3a:-477516276</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_744286_informaco_contatos_info_ti.x_744286_informaco.temas_user">c8afb2552f523110c4532aa62799b6aa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 15:47:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>0b338452ab534a68816ace0fb4358890</sys_id>
+        <sys_metadata>b66a32112f523110c4532aa62799b638</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_744286_informaco_contatos_info_ti.x_744286_informaco.temas_user</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent display_value="">fa6a32112f523110c4532aa62799b635</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_b66a32112f523110c4532aa62799b638</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_b66a32112f523110c4532aa62799b638">fa6a32112f523110c4532aa62799b63a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-03 15:47:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

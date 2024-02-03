@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e9ef7a552f523110c4532aa62799b687" label="Contatos Info TI" max_length="40" name="x_744286_informaco_contatos_info_ti" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Chave" max_length="40" name="chave" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DT_FIM" max_length="40" name="dt_fim" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="DT_REG" max_length="40" name="dt_reg" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Funcao" max_length="40" name="funcao" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ID_SUBCAT" max_length="40" name="id_subcat" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Nome" max_length="42" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reg_vig" max_length="40" name="reg_vig" type="string"/>
+        <element label="Subcategoria" max_length="32" name="subcategoria" reference="x_744286_informaco_subacategoria" type="reference"/>
+        <element label="Tipo" max_length="40" name="tipo" type="integer"/>
+        <index name="index">
+            <element name="subcategoria"/>
+        </index>
+    </element>
+</database>

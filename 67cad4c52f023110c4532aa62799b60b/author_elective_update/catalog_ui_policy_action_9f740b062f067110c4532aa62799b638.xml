@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Informações InfoTI">656728052f423110c4532aa62799b6d8</catalog_item>
+        <catalog_variable>IO:b356bc9d2f027110c4532aa62799b6ed</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-24 13:48:48</sys_created_on>
+        <sys_id>9f740b062f067110c4532aa62799b638</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>informacao_mensal_ou_trimestral</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_9f740b062f067110c4532aa62799b638</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-24 13:49:21</sys_updated_on>
+        <table/>
+        <ui_policy display_value="trimestral mandatory false">d85447062f067110c4532aa62799b61c</ui_policy>
+        <variable>informacao_mensal_ou_trimestral</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>catalog_ui_policy_action_9f740b062f067110c4532aa62799b638</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Informações InfoTI">656728052f423110c4532aa62799b6d8</catalog_item><catalog_variable>IO:b356bc9d2f027110c4532aa62799b6ed</catalog_variable><cleared>true</cleared><disabled>ignore</disabled><field/><mandatory>false</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-24 13:48:48</sys_created_on><sys_id>9f740b062f067110c4532aa62799b638</sys_id><sys_mod_count>1</sys_mod_count><sys_name>informacao_mensal_ou_trimestral</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>catalog_ui_policy_action_9f740b062f067110c4532aa62799b638</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-24 13:49:21</sys_updated_on><table/><ui_policy display_value="trimestral mandatory false">d85447062f067110c4532aa62799b61c</ui_policy><variable>informacao_mensal_ou_trimestral</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-1481738546</payload_hash>
+        <record_name>informacao_mensal_ou_trimestral</record_name>
+        <reverted_from/>
+        <source>67cad4c52f023110c4532aa62799b60d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-24 13:49:21</sys_created_on>
+        <sys_id>34b44fc22f067110c4532aa62799b669</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b61f275e30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-24 13:49:21</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>3cb44fc28f0671109816ff3e407dd868</update_guid>
+        <update_guid_history>3cb44fc28f0671109816ff3e407dd868:-1481738546,b0940fc2dc0671109d0c2b4a0a626da7:100196746</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="informacao_mensal_ou_trimestral">09ef333d2f477110c4532aa62799b6e2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 16:32:15</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>0b9d4dea939042e0aee47dcfb59f2400</sys_id>
+        <sys_metadata>9f740b062f067110c4532aa62799b638</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>informacao_mensal_ou_trimestral</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_9f740b062f067110c4532aa62799b638</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_9f740b062f067110c4532aa62799b638">34b44fc22f067110c4532aa62799b669</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 16:32:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

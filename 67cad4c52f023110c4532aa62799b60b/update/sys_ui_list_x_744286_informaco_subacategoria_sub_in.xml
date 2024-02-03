@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_744286_informaco_subacategoria" version="2" view="sub_in">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria.id_categoria</element>
+            <list_id display_value="x_744286_informaco_subacategoria" element="NULL" name="x_744286_informaco_subacategoria" parent="NULL" relationship="NULL" sys_domain="global" view="956ccf912f923110c4532aa62799b6d5">d26c8b912f923110c4532aa62799b6ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_id>9e6c8b912f923110c4532aa62799b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>id_categoria</element>
+            <list_id display_value="x_744286_informaco_subacategoria" element="NULL" name="x_744286_informaco_subacategoria" parent="NULL" relationship="NULL" sys_domain="global" view="956ccf912f923110c4532aa62799b6d5">d26c8b912f923110c4532aa62799b6ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_id>126c8b912f923110c4532aa62799b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>id_subcat</element>
+            <list_id display_value="x_744286_informaco_subacategoria" element="NULL" name="x_744286_informaco_subacategoria" parent="NULL" relationship="NULL" sys_domain="global" view="956ccf912f923110c4532aa62799b6d5">d26c8b912f923110c4532aa62799b6ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_id>926c8b912f923110c4532aa62799b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>reg_vig</element>
+            <list_id display_value="x_744286_informaco_subacategoria" element="NULL" name="x_744286_informaco_subacategoria" parent="NULL" relationship="NULL" sys_domain="global" view="956ccf912f923110c4532aa62799b6d5">d26c8b912f923110c4532aa62799b6ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_id>166c8b912f923110c4532aa62799b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>subcategoria</element>
+            <list_id display_value="x_744286_informaco_subacategoria" element="NULL" name="x_744286_informaco_subacategoria" parent="NULL" relationship="NULL" sys_domain="global" view="956ccf912f923110c4532aa62799b6d5">d26c8b912f923110c4532aa62799b6ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_id>966c8b912f923110c4532aa62799b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>responsavel_subcat.chave</element>
+            <list_id display_value="x_744286_informaco_subacategoria" element="NULL" name="x_744286_informaco_subacategoria" parent="NULL" relationship="NULL" sys_domain="global" view="956ccf912f923110c4532aa62799b6d5">d26c8b912f923110c4532aa62799b6ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_id>1a6c8b912f923110c4532aa62799b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>responsavel_subcat.nome</element>
+            <list_id display_value="x_744286_informaco_subacategoria" element="NULL" name="x_744286_informaco_subacategoria" parent="NULL" relationship="NULL" sys_domain="global" view="956ccf912f923110c4532aa62799b6d5">d26c8b912f923110c4532aa62799b6ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_id>9a6c8b912f923110c4532aa62799b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>responsavel_subcat.email</element>
+            <list_id display_value="x_744286_informaco_subacategoria" element="NULL" name="x_744286_informaco_subacategoria" parent="NULL" relationship="NULL" sys_domain="global" view="956ccf912f923110c4532aa62799b6d5">d26c8b912f923110c4532aa62799b6ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_id>1e6c8b912f923110c4532aa62799b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>responsavel_subcat.funcao</element>
+            <list_id display_value="x_744286_informaco_subacategoria" element="NULL" name="x_744286_informaco_subacategoria" parent="NULL" relationship="NULL" sys_domain="global" view="956ccf912f923110c4532aa62799b6d5">d26c8b912f923110c4532aa62799b6ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_id>9e6c8b912f923110c4532aa62799b6eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_744286_informaco_subacategoria</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-03 16:43:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d26c8b912f923110c4532aa62799b6ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_744286_informaco_subacategoria</sys_name>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_ui_list_x_744286_informaco_subacategoria_sub_in</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-03 16:43:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="sub in" name="sub_in">956ccf912f923110c4532aa62799b6d5</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

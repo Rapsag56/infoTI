@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Informações InfoTI">426f6ee1cf433110a50c57122ad5c7bd</dashboard>
+        <group/>
+        <role display_value="x_744286_informaco.aprova_es_infoti_user" name="x_744286_informaco.aprova_es_infoti_user">fad22e502f123110c4532aa62799b69b</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 16:02:16</sys_created_on>
+        <sys_id>447faee12f433110c4532aa62799b6ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>426f6ee1cf433110a50c57122ad5c7bd</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>par_dashboard_permission_447faee12f433110c4532aa62799b6ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 16:02:16</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

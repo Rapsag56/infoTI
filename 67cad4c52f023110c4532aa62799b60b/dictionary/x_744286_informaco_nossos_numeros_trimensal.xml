@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2c7319ae2f4bf110c4532aa62799b69e" label="Nossos Numeros Trimensal" max_length="40" name="x_744286_informaco_nossos_numeros_trimensal" type="collection">
+        <element label="Conceito" max_length="2000" name="conceito" type="string"/>
+        <element label="Nome" max_length="32" name="nome" reference="x_744286_informaco_temas_info_ti_v2" type="reference"/>
+        <element label="Número" max_length="32" name="numero" type="currency2"/>
+        <element choice="1" label="Período" max_length="40" name="periodo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1T22" value="1T22"/>
+                <element inactive_on_update="false" label="1T23" value="1T23"/>
+                <element inactive_on_update="false" label="2T22" value="2T22"/>
+                <element inactive_on_update="false" label="2T23" value="2T23"/>
+                <element inactive_on_update="false" label="3T22" value="3T22"/>
+                <element inactive_on_update="false" label="3T23" value="3T23"/>
+                <element inactive_on_update="false" label="4T22" value="4T22"/>
+                <element inactive_on_update="false" label="4T23" value="4T23"/>
+            </choice>
+        </element>
+        <element label="Valor" max_length="40" name="valor" type="integer"/>
+        <index name="index">
+            <element name="nome"/>
+        </index>
+        <index name="index2">
+            <element name="numero"/>
+        </index>
+    </element>
+</database>

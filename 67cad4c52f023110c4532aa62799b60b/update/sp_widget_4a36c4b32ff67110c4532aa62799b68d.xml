@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[api.controller=function() {
+  /* widget controller */
+  var c = this;
+};]]></client_script>
+        <controller_as>c</controller_as>
+        <css>body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 1em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    padding: 1em;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {
+  
+}]]></link>
+        <name>Web TEST</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-05 17:15:22</sys_created_on>
+        <sys_id>4a36c4b32ff67110c4532aa62799b68d</sys_id>
+        <sys_mod_count>42</sys_mod_count>
+        <sys_name>Web TEST</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sp_widget_4a36c4b32ff67110c4532aa62799b68d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 01:26:07</sys_updated_on>
+        <template><![CDATA[<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chupa cuzão</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Compra e paga 3!!</h1>
+    </header>
+    <nav>
+        <a href="">Página Inicial</a>
+        <a href="">Sobre</a>
+        <a href="">Contato</a>
+        <a href="">Produtos</a>
+        <a href="">Serviços</a>
+    </nav>
+    <section>
+        <h2>Bem-vindo ao site do otário!</h2>
+        <p>Só aqui o cliente não tem razão.</p>
+
+        <h3>Últimas Notícias</h3>
+        <ul>
+            <li><a target="_blank" href="https://www.mercadolivre.com.br/mesa-de-som-digital-soundcraft-ui24r-preta/p/MLB27709400#polycard_client=recommendations_home_navigation-trend-recommendations&reco_backend=machinalis-homes-pdp-boos&reco_client=home_navigation-trend-recommendations&reco_item_pos=1&reco_backend_type=function&reco_id=02e97f09-48bf-4dd5-91cb-723d6b00528d&wid=MLB3503017035&sid=recos">Novo Produto Lançado</a></li>
+            <li><a href="">Novo Produto Lançado</a></li>
+            <li><a href="">Parceria Estratégica Anunciada</a></li>
+            <li><a href="">Eventos Futuros</a></li>
+        </ul>
+
+        <h3>Nossos Serviços</h3>
+        <p>Oferecemos uma ampla gama de serviços, incluindo consultoria, desenvolvimento web e muito mais.</p>
+
+        <h3>Produtos em Destaque</h3>
+        <ul>
+            <li><a target="_blank" href="https://www.mercadolivre.com.br/mesa-de-som-digital-soundcraft-ui24r-preta/p/MLB27709400#polycard_client=recommendations_home_navigation-trend-recommendations&reco_backend=machinalis-homes-pdp-boos&reco_client=home_navigation-trend-recommendations&reco_item_pos=1&reco_backend_type=function&reco_id=02e97f09-48bf-4dd5-91cb-723d6b00528d&wid=MLB3503017035&sid=recos">UI24r queimada!</a></li>
+            <li><a href="">Produto B</a></li>
+            <li><a href="">Produto C</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2023 Meu Site. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+ <img id="cornerImage" src="canto_inferior_direito.png" alt="Imagem acima do Rodapé">
+]]></template>
+    </sp_widget>
+</record_update>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>L1 Configuration	</description>
+        <name>chrome_toolbar</name>
+        <page display_value="Informações InfoTI">025900719cc73110ac11161a7495c4f9</page>
+        <required_translations>[ {
+  "message" : "Abrir Solicitacao",
+  "comment" : ""
+}, {
+  "message" : "Aprovacoes Pendentes",
+  "comment" : ""
+}, {
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "message" : "Lista de Solicitacoes",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 22:35:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>7959007191c73110066778b9eafd39e6</sys_id>
+        <sys_mod_count>33</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_page_property_7959007191c73110066778b9eafd39e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-18 13:46:20</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_744286_informaco.025900719cc73110ac11161a7495c4f9.root.chrome_toolbar</unique_name>
+        <value>[{"id":"home","label":{"translatable":true,"message":"Home"},"order":0,"icon":"home-outline","routeInfo":{"route":"home"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"abrir-solicitacao","label":{"translatable":true,"message":"Abrir Solicitacao"},"order":100,"icon":"arrow-up-right-outline","routeInfo":{"route":"abrir-solicitacao"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"lista-de-solicitacoes","label":{"translatable":true,"message":"Lista de Solicitacoes"},"order":200,"icon":"list-outline","routeInfo":{"route":"lista-de-solicitacoes"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"aprovacoes-pendentes","label":{"translatable":true,"message":"Aprovacoes Pendentes"},"order":300,"icon":"document-excel-outline","routeInfo":{"route":"aprovacoes-pendentes"},"group":"top","badge":{},"presence":{},"availability":{}}]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=7959007191c73110066778b9eafd39e6"/>
+</record_update>

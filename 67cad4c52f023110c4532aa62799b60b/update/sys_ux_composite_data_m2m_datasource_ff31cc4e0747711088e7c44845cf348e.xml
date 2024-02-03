@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">bf31cc4e7e477110510406e29d9a5992</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">f331cc4e214771105faf735bb080dd91</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-12 16:38:15</sys_created_on>
+        <sys_id>ff31cc4e0747711088e7c44845cf348e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_ff31cc4e0747711088e7c44845cf348e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-12 16:38:15</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="Executivo Aprovador">15d30fe92f833110c4532aa62799b6e3</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 17:34:03</sys_created_on>
+        <sys_id>a8740b2d2f833110c4532aa62799b6c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Solicitações Data Mapping_etl_ihub">4dd38be92f833110c4532aa62799b691</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">ec740b2d2f833110c4532aa62799b6a6</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_a8740b2d2f833110c4532aa62799b6c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:34:03</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Executivo Aprovador_sn_ihub_target_executivo_aprovador">7764c72d2f833110c4532aa62799b68d</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

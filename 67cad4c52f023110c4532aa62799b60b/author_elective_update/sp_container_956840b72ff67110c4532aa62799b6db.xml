@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>ComprasCap - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="comprascap">d6584c372ff67110c4532aa62799b6b5</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-05 17:23:06</sys_created_on>
+        <sys_id>956840b72ff67110c4532aa62799b6db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ComprasCap - Container 1</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sp_container_956840b72ff67110c4532aa62799b6db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-05 17:23:06</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sp_container_956840b72ff67110c4532aa62799b6db</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>ComprasCap - Container 1</name><order>1</order><sp_page display_value="comprascap">d6584c372ff67110c4532aa62799b6b5</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-05 17:23:06</sys_created_on><sys_id>956840b72ff67110c4532aa62799b6db</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ComprasCap - Container 1</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sp_container_956840b72ff67110c4532aa62799b6db</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-05 17:23:06</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-8449473</payload_hash>
+        <record_name>ComprasCap - Container 1</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-05 17:23:06</sys_created_on>
+        <sys_id>916840b72ff67110c4532aa62799b6dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c3b013f500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-05 17:23:06</sys_updated_on>
+        <type>Container</type>
+        <update_guid>d56840b76df67110100861dbf0e440dc</update_guid>
+        <update_guid_history>d56840b76df67110100861dbf0e440dc:-8449473</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ComprasCap - Container 1">af68c0b72ff67110c4532aa62799b639</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-05 17:23:15</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>9942296689944dbcb99ca6c8033670a4</sys_id>
+        <sys_metadata>956840b72ff67110c4532aa62799b6db</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ComprasCap - Container 1</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sp_container_956840b72ff67110c4532aa62799b6db</sys_update_name>
+        <sys_update_version display_value="sp_container_956840b72ff67110c4532aa62799b6db">916840b72ff67110c4532aa62799b6dd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-05 17:23:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

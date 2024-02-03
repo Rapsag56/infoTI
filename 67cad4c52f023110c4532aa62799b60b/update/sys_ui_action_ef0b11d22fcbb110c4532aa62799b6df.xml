@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>aprovar()</action_name>
+        <active>true</active>
+        <client>false</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+    var status = current.status_da_solicitacao;
+    var gerenteInfoTi = current.aprovadores;
+    var gerenteValidador = current.gerente_validador;
+    var executivo = current.executivo_aprovador;
+    var sys_id = current.sys_id;
+    var user = gs.getUserID();
+
+    if (status == "aguardando_gerente_infoti") {
+        if (gs.getUserID() == gerenteInfoTi) {
+            var gr = new GlideRecord('sysapproval_approver');
+            gr.addEncodedQuery('sysapproval=' + sys_id + '^state=requested^approver=' + user);
+            gr.query();
+            if (gr.next()) {
+                gr.state = 'approved';
+                gr.update('Tarefa Aprovada!');
+
+                var grApr = new GlideRecord('x_744286_informaco_aprova_es_infoti');
+                grApr.get(sys_id);
+                //grApr.u_state = 3;
+                //grApr.aprovador = user;
+                grApr.approval = 'approved';
+                grApr.comments = 'Tarefa aprovada por ' + gs.getUserDisplayName() + '.';
+                // grApr.update('Tarefa salva com sucesso');
+                action.openGlideRecord(grApr);
+                gs.addInfoMessage("A Tarefa foi aprovada pelo Gerente da InfoTI");
+				action.setRedirectURL(current);
+
+            }
+        } else {
+            gs.addErrorMessage("Caro " + gs.getUserName() + ", você não é o Gerente aprovador(InfoTi) da solicitação!");
+        }
+    }
+
+    if (status == "aguardando_gerente") {
+
+        var gerentes = [];
+        gerentes = gerenteValidador.toString();
+        //gs.addInfoMessage(gerentes);
+        if (gerentes.indexOf(user) !== -1) {
+            //  gs.addInfoMessage("entrou");
+            var gr2 = new GlideRecord('sysapproval_approver');
+            gr2.addEncodedQuery('sysapproval=' + sys_id + '^state=requested^approver=' + user);
+            gr2.query();
+            if (gr2.next()) {
+                gr2.state = 'approved';
+                gr2.update('Tarefa Aprovada!');
+
+                var grApr2 = new GlideRecord('x_744286_informaco_aprova_es_infoti');
+                grApr2.get(sys_id);
+                //grApr2.u_state = 3;
+                //grApr2.aprovador = user;
+                grApr2.approval = 'approved';
+                grApr2.comments = 'Tarefa aprovada por ' + gs.getUserDisplayName() + '.';
+                grApr2.status_da_solicitacao = "aguardando_executivo";
+                // grApr2.update('Tarefa salva com sucesso');
+                action.openGlideRecord(grApr2);
+                gs.addInfoMessage("A Tarefa foi aprovada pelo Gerente");
+				action.setRedirectURL(current);
+
+            }
+        } else {
+            gs.addErrorMessage("Caro " + gs.getUserName() + ", você não é o Gerente Validador da solicitação, a tarefa não foi aprovada!");
+        }
+    }
+
+    if (status == "aguardando_executivo") {
+
+        var executivoAprovador = [];
+        executivoAprovador = executivo.toString();
+       // gs.addInfoMessage(executivoAprovador);
+        if (executivoAprovador.indexOf(user) !== -1) {
+            //  gs.addInfoMessage("entrou");
+            var gr3 = new GlideRecord('sysapproval_approver');
+            gr3.addEncodedQuery('sysapproval=' + sys_id + '^state=requested^approver=' + user);
+            gr3.query();
+            if (gr3.next()) {
+                gr3.state = 'approved';
+                gr3.update('Tarefa Aprovada!');
+
+                var grApr3 = new GlideRecord('x_744286_informaco_aprova_es_infoti');
+                grApr3.get(sys_id);
+                //grApr3.u_state = 3;
+                //grApr3.aprovador = user;
+                grApr3.approval = 'approved';
+                grApr3.comments = 'Tarefa aprovada por ' + gs.getUserDisplayName() + '.';
+                grApr3.status_da_solicitacao = "consolidacao";
+                // grApr3.update('Tarefa salva com sucesso');
+                action.openGlideRecord(grApr3);
+                gs.addInfoMessage("A Tarefa foi aprovada pelo Executivo");
+				action.setRedirectURL(current);
+
+            }
+        } else {
+            gs.addErrorMessage("Caro " + gs.getUserName() + ", você não é o Executivo Aprovador da solicitação, a tarefa não foi aprovada!");
+        }
+    }
+}]]></client_script_v2>
+        <comments/>
+        <condition>current.status_da_solicitacao=="aguardando_gerente"||current.status_da_solicitacao=="aguardando_executivo"||current.status_da_solicitacao=="aguardando_gerente_infoti";</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>true</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style>primary</form_style>
+        <format_for_configurable_workspace>true</format_for_configurable_workspace>
+        <hint/>
+        <isolate_script>false</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style>primary</list_style>
+        <messages/>
+        <name>Aprovar</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[var status = current.status_da_solicitacao;
+var gerenteInfoTi = current.aprovadores;
+var gerenteValidador = current.gerente_validador;
+var executivo = current.executivo_aprovador;
+var sys_id = current.sys_id;
+var user = gs.getUserID();
+
+if (status == "aguardando_gerente_infoti") {
+    if (gs.getUserID() == gerenteInfoTi) {
+        var gr = new GlideRecord('sysapproval_approver');
+        gr.addEncodedQuery('sysapproval=' + sys_id + '^state=requested^approver=' + user);
+        gr.query();
+        if (gr.next()) {
+            gr.state = 'approved';
+            gr.update('Tarefa Aprovada!');
+
+            var grApr = new GlideRecord('x_744286_informaco_aprova_es_infoti');
+            grApr.get(sys_id);
+            //grApr.u_state = 3;
+            //grApr.aprovador = user;
+            grApr.approval = 'approved';
+            grApr.comments = 'Tarefa aprovada por ' + gs.getUserDisplayName() + '.';
+            // grApr.update('Tarefa salva com sucesso');
+            action.openGlideRecord(grApr);
+            gs.addInfoMessage("A Tarefa foi aprovada pelo Gerente da InfoTI");
+			action.setRedirectURL(current);
+
+        }
+    } else {
+        gs.addErrorMessage("Caro " + gs.getUserName() + ", você não é o Gerente aprovador(InfoTi) da solicitação!");
+    }
+}
+
+if (status == "aguardando_gerente") {
+
+    var gerentes = [];
+    gerentes = gerenteValidador.toString();
+   // gs.addInfoMessage(gerentes);
+    if (gerentes.indexOf(user) !== -1) {
+        //  gs.addInfoMessage("entrou");
+        var gr2 = new GlideRecord('sysapproval_approver');
+        gr2.addEncodedQuery('sysapproval=' + sys_id + '^state=requested^approver=' + user);
+        gr2.query();
+        if (gr2.next()) {
+            gr2.state = 'approved';
+            gr2.update('Tarefa Aprovada!');
+
+            var grApr2 = new GlideRecord('x_744286_informaco_aprova_es_infoti');
+            grApr2.get(sys_id);
+            //grApr2.u_state = 3;
+            //grApr2.aprovador = user;
+            grApr2.approval = 'approved';
+            grApr2.comments = 'Tarefa aprovada por ' + gs.getUserDisplayName() + '.';
+            grApr2.status_da_solicitacao = "aguardando_executivo";
+            // grApr2.update('Tarefa salva com sucesso');
+            action.openGlideRecord(grApr2);
+            gs.addInfoMessage("A Tarefa foi aprovada pelo Gerente");
+			action.setRedirectURL(current);
+
+        }
+    } else {
+        gs.addErrorMessage("Caro " + gs.getUserName() + ", você não é o Gerente Validador da solicitação, a tarefa não foi aprovada!");
+    }
+}
+
+if (status == "aguardando_executivo") {
+
+    var executivoAprovador = [];
+    executivoAprovador = executivo.toString();
+   // gs.addInfoMessage(executivoAprovador);
+    if (executivoAprovador.indexOf(user) !== -1) {
+        //  gs.addInfoMessage("entrou");
+        var gr3 = new GlideRecord('sysapproval_approver');
+        gr3.addEncodedQuery('sysapproval=' + sys_id + '^state=requested^approver=' + user);
+        gr3.query();
+        if (gr3.next()) {
+            gr3.state = 'approved';
+            gr3.update('Tarefa Aprovada!');
+
+            var grApr3 = new GlideRecord('x_744286_informaco_aprova_es_infoti');
+            grApr3.get(sys_id);
+            //grApr3.u_state = 3;
+            //grApr3.aprovador = user;
+            grApr3.approval = 'approved';
+            grApr3.comments = 'Tarefa aprovada por ' + gs.getUserDisplayName() + '.';
+            grApr3.status_da_solicitacao = "consolidacao";
+            // grApr3.update('Tarefa salva com sucesso');
+            action.openGlideRecord(grApr3);
+            gs.addInfoMessage("A Tarefa foi aprovada pelo Executivo");
+			action.setRedirectURL(current);
+
+        }
+    } else {
+        gs.addErrorMessage("Caro " + gs.getUserName() + ", você não é o Executivo Aprovador da solicitação, a tarefa não foi aprovada!");
+    }
+}]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 17:55:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ef0b11d22fcbb110c4532aa62799b6df</sys_id>
+        <sys_mod_count>32</sys_mod_count>
+        <sys_name>Aprovar</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ui_action_ef0b11d22fcbb110c4532aa62799b6df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-21 17:38:48</sys_updated_on>
+        <table>x_744286_informaco_aprova_es_infoti</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

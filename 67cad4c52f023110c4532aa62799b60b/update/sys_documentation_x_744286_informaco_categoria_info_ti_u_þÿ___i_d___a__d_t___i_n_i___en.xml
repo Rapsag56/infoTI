@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_þÿ___i_d___a__d_t___i_n_i__" label="þÿ&#0;&quot;&#0;I&#0;D&#0;_&#0;A&#0;s&#0;s&#0;u&#0;n&#0;t&#0;o&#0;&quot;&#0;;&#0;&quot;&#0;N&#0;o&#0;m&#0;e&#0;&quot;&#0;;&#0;&quot;&#0;I&#0;D&#0;_&#0;S&#0;U&#0;B&#0;C&#0;A&#0;T&#0;&quot;&#0;;&#0;&quot;&#0;R&#0;e&#0;g&#0;_&#0;V&#0;i" language="en" table="x_744286_informaco_categoria_info_ti">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_þÿ___i_d___a__d_t___i_n_i__</element>
+            <help/>
+            <hint/>
+            <label>þÿ"ID_Assunto";"Nome";"ID_SUBCAT";"Reg_Vi</label>
+            <language>en</language>
+            <name>x_744286_informaco_categoria_info_ti</name>
+            <plural>þÿ"ID_Assunto";"Nome";"ID_SUBCAT";"Reg_Vi</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-31 15:00:51</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>þÿ"ID_Assunto";"Nome";"ID_SUBCAT";"Reg_Vig";"DT_INI"</sys_name>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_documentation_x_744286_informaco_categoria_info_ti_u_þÿ___i_d___a__d_t___i_n_i___en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-31 15:00:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

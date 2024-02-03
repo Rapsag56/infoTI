@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Informações InfoTI</description>
+        <genius_result_assembly/>
+        <label>informaes-infoti Search Profile</label>
+        <name>x_744286_informaco_nmfjkfvt_search_profile</name>
+        <publish_id>4b4c2134-9876-4894-b059-58d398587ca4</publish_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 22:35:05</sys_created_on>
+        <sys_id>8259007157c73110e3e4ec424ed089f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>informaes-infoti Search Profile</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>ais_search_profile_8259007157c73110e3e4ec424ed089f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 22:35:05</sys_updated_on>
+    </ais_search_profile>
+</record_update>

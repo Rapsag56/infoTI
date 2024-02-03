@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_categoria" label="Categoria" language="en" table="x_744286_informaco_ihub_import_138147e52f833110c4532aa62799b67f">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_categoria</element>
+            <help/>
+            <hint/>
+            <label>Categoria</label>
+            <language>en</language>
+            <name>x_744286_informaco_ihub_import_138147e52f833110c4532aa62799b67f</name>
+            <plural>Categorias</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 17:25:25</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Categoria</sys_name>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_documentation_x_744286_informaco_ihub_import_138147e52f833110c4532aa62799b67f_u_categoria_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 17:25:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

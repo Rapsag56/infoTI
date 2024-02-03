@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="57ebf0832f8e3110c4532aa62799b6cc" label="temas info ti v2" max_length="40" name="x_744286_informaco_temas_info_ti_v2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="DT_INI" max_length="40" name="dt_ini" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ID_Assunto" max_length="40" name="id_assunto" type="string"/>
+        <element attributes="encode_utf8=false" label="ID_SUBCAT" max_length="32" name="id_subcat" reference="x_744286_informaco_subacategoria" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Nome" max_length="87" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reg_Vig" max_length="40" name="reg_vig" type="string"/>
+        <index name="index">
+            <element name="id_assunto"/>
+        </index>
+        <index name="index2">
+            <element name="id_subcat"/>
+        </index>
+    </element>
+</database>

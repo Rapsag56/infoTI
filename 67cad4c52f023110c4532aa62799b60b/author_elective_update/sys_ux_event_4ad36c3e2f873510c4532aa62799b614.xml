@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>PEGASESSIONS</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>pegaSessions</label>
+        <props>[{"name":"sessionbom","fieldType":"json","label":"sessionbom","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[ {
+  "message" : "sessionbom",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 03:04:47</sys_created_on>
+        <sys_id>4ad36c3e2f873510c4532aa62799b614</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pegaSessions</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_event_4ad36c3e2f873510c4532aa62799b614</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 03:04:47</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=4ad36c3e2f873510c4532aa62799b614"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ux_event_4ad36c3e2f873510c4532aa62799b614</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>PEGASESSIONS</event_name><explicit_api_name/><interfaces/><label>pegaSessions</label><props>[{"name":"sessionbom","fieldType":"json","label":"sessionbom","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props><required_translations>[ {
+  "message" : "sessionbom",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-15 03:04:47</sys_created_on><sys_id>4ad36c3e2f873510c4532aa62799b614</sys_id><sys_mod_count>0</sys_mod_count><sys_name>pegaSessions</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_ux_event_4ad36c3e2f873510c4532aa62799b614</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-15 03:04:47</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=4ad36c3e2f873510c4532aa62799b614"/></record_update>]]></payload>
+        <payload_hash>-405347550</payload_hash>
+        <record_name>pegaSessions</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 03:04:47</sys_created_on>
+        <sys_id>5ed3e87e2f873510c4532aa62799b65f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c6b6f08370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 03:04:47</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>52d3e87ef887351073c2a17ea3ad7e5f</update_guid>
+        <update_guid_history>52d3e87ef887351073c2a17ea3ad7e5f:-405347550</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 03:14:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>4c2fe3c4d8dc479abc6f7a4ef800d724</sys_id>
+        <sys_metadata>4ad36c3e2f873510c4532aa62799b614</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pegaSessions</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ux_event_4ad36c3e2f873510c4532aa62799b614</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_4ad36c3e2f873510c4532aa62799b614">5ed3e87e2f873510c4532aa62799b65f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 03:14:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

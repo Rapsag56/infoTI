@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="DELETE">
+        <description/>
+        <event_name>PEGASAPORRA</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>pegaSaporra</label>
+        <props>[{"name":"tabela","fieldType":"string","label":"tabela","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
+        <required_translations>[ {
+  "message" : "tabela",
+  "comment" : ""
+} ]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 23:39:31</sys_created_on>
+        <sys_id>5fd4f7aa2fc33510c4532aa62799b6fb</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>pegaSaporra</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_event_5fd4f7aa2fc33510c4532aa62799b6fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 00:24:39</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="DELETE" query="documentkey=5fd4f7aa2fc33510c4532aa62799b6fb"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ux_event_5fd4f7aa2fc33510c4532aa62799b6fb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event"><sys_ux_event action="INSERT_OR_UPDATE"><description/><event_name>PEGASAPORRA</event_name><explicit_api_name/><interfaces/><label>pegaSaporra</label><props>[{"name":"tabela","fieldType":"string","label":"tabela","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props><required_translations>[ {
+  "message" : "tabela",
+  "comment" : ""
+} ]</required_translations><schema_version>1.0.0</schema_version><sys_class_name>sys_ux_event</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-14 23:39:31</sys_created_on><sys_id>5fd4f7aa2fc33510c4532aa62799b6fb</sys_id><sys_mod_count>3</sys_mod_count><sys_name>pegaSaporra</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_ux_event_5fd4f7aa2fc33510c4532aa62799b6fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-15 00:24:39</sys_updated_on></sys_ux_event><sys_translated_text action="delete_multiple" query="documentkey=5fd4f7aa2fc33510c4532aa62799b6fb"/></record_update>]]></payload>
+        <payload_hash>1288882705</payload_hash>
+        <record_name>pegaSaporra</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 00:24:40</sys_created_on>
+        <sys_id>2c3f3fa62f073510c4532aa62799b69e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c6adc6dd30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 00:24:40</sys_updated_on>
+        <type>UX Event</type>
+        <update_guid>a03f3fa616073510bd9b62be1f6fec9e</update_guid>
+        <update_guid_history>a03f3fa616073510bd9b62be1f6fec9e:1288882705,b269fbee1cc33510d4985b9ae770b673:563317886,a226bfea17c33510fb6213f6a4d710b4:-56112963,5fd4f3ea98c33510a30471a527cbbe1f:1568435094</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-15 00:40:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_event">sys_ux_event</sys_db_object>
+        <sys_id>4e3498d616034a70b58329e3ef2b1010</sys_id>
+        <sys_metadata>5fd4f7aa2fc33510c4532aa62799b6fb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pegaSaporra</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ux_event_5fd4f7aa2fc33510c4532aa62799b6fb</sys_update_name>
+        <sys_update_version display_value="sys_ux_event_5fd4f7aa2fc33510c4532aa62799b6fb">2c3f3fa62f073510c4532aa62799b69e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-15 00:40:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

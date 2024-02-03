@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="trimestre" table="x_744286_informaco_informacoes_infoti" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>trimestre</element>
+            <name>x_744286_informaco_informacoes_infoti</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-30 15:37:03</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>trimestre</sys_name>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_choice_x_744286_informaco_informacoes_infoti_trimestre</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-30 15:37:03</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trimestre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1T23</label>
+            <language>en</language>
+            <name>x_744286_informaco_informacoes_infoti</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-30 15:37:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-30 15:37:37</sys_updated_on>
+            <value>1T23</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trimestre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2T23</label>
+            <language>en</language>
+            <name>x_744286_informaco_informacoes_infoti</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-30 15:37:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-30 15:37:45</sys_updated_on>
+            <value>2T23</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trimestre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3T23</label>
+            <language>en</language>
+            <name>x_744286_informaco_informacoes_infoti</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-30 15:37:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-30 15:37:49</sys_updated_on>
+            <value>3T23</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>trimestre</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4T23</label>
+            <language>en</language>
+            <name>x_744286_informaco_informacoes_infoti</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-30 15:37:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-30 15:37:56</sys_updated_on>
+            <value>4T23</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

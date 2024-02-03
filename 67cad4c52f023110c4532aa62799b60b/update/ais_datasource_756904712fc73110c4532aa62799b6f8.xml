@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Relatório Destinatário Table</name>
+        <retention_policy/>
+        <source>x_744286_informaco_relat_rio_destinatario</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 22:35:20</sys_created_on>
+        <sys_id>756904712fc73110c4532aa62799b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Relatório Destinatário Table</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>ais_datasource_756904712fc73110c4532aa62799b6f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 22:35:20</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

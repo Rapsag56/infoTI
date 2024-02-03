@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">fb31cc4e3e4771105eacd26f22e26092</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">7f31cc4e374771103e7a2c558607378d</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-12 16:38:13</sys_created_on>
+        <sys_id>7331cc4edc47711011f75cb13a94108d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_7331cc4edc47711011f75cb13a94108d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-12 16:38:13</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

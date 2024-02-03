@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_744286_informaco.utilitiesNowPro</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>utilitiesNowPro</name>
+        <script><![CDATA[var utilitiesNowPro = Class.create();
+utilitiesNowPro.prototype = {
+	initialize: function () { },
+
+	obterTodosUsuarios: function () {
+		var obterUsuario = new GlideRecord("sys_user");
+		obterUsuario.addQuery("user_name", "admin");
+		obterUsuario.query();
+
+		while (obterUsuario.next()) {
+			gs.info("Nome -" + obterUsuario.getValue('name') + " email - " + obterUsuario.getValue('email'));
+		}
+
+	},
+
+	imprimirLog: function () {
+		gs.info("Olá Script Include");
+	},
+
+	retornaUsuarioInativos: function () {
+		var usuarioInativo = new GlideRecord('sys_user');
+		usuarioInativo.addEncodedQuery("active=false");
+		usuarioInativo.query();
+		while (usuarioInativo.next()) {
+			gs.info("Usuario inativo - " + usuarioInativo.getValue('name'));
+		}
+
+	},
+
+	ativarUsuarioInativo: function () {
+		var usuarioInativo = new GlideRecord('sys_user');
+		usuarioInativo.addEncodedQuery("active=false");
+		usuarioInativo.query();
+
+		while (usuarioInativo.next()) {
+			usuarioInativo.setValue('active', true);
+			usuarioInativo.setValue('locked_out', true);
+			usuarioInativo.update();
+		}
+	},
+
+	consultarIncidenteMesVigentes: function () {
+		var incidenteVigente = new GlideRecord('incident');
+		incidenteVigente.addEncodedQuery("active=true^sys_created_onONThis month@javascript:gs.beginningOfThisMonth()@javascript:gs.endOfThisMonth()");
+		incidenteVigente.query();
+
+		while (usuarioInativo.next()) {
+			gs.info("Protocolo : " + incidenteVigente.getValue('number'));
+			gs.info("Descrição Resumida : " + incidenteVigente.getValue('short_description'));
+			gs.info("Aberto por : " + incidenteVigente.getDisplayValue('opened_by'));
+			gs.info("Status : " + incidenteVigente.getValue('state'));
+			gs.info("Prioridade - " + incidenteVigente.getValue('priority'));
+
+		}
+
+	},
+
+
+	type: 'utilitiesNowPro'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 00:48:46</sys_created_on>
+        <sys_id>ec39915a2f337510c4532aa62799b685</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>utilitiesNowPro</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_script_include_ec39915a2f337510c4532aa62799b685</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 02:00:42</sys_updated_on>
+    </sys_script_include>
+</record_update>

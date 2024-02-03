@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>label</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_744286_informaco_temas</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 06:19:41</sys_created_on>
+        <sys_id>de6a70032f8e3110c4532aa62799b672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Temas</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_db_object_de6a70032f8e3110c4532aa62799b672</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 06:19:41</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_744286_informaco.temas_user" name="x_744286_informaco.temas_user">878a78cf2f4e3110c4532aa62799b6fe</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_db_object_de6a70032f8e3110c4532aa62799b672</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>label</label><live_feed_enabled>false</live_feed_enabled><name>x_744286_informaco_temas</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:19:41</sys_created_on><sys_id>de6a70032f8e3110c4532aa62799b672</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Temas</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_db_object_de6a70032f8e3110c4532aa62799b672</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:19:41</sys_updated_on><update_access>false</update_access><user_role display_value="x_744286_informaco.temas_user" name="x_744286_informaco.temas_user">878a78cf2f4e3110c4532aa62799b6fe</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>2121133255</payload_hash>
+        <record_name>label</record_name>
+        <reverted_from/>
+        <source>67cad4c52f023110c4532aa62799b60d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 06:19:43</sys_created_on>
+        <sys_id>6f8a38032f8e3110c4532aa62799b6c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b6fc9e1360000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 06:19:43</sys_updated_on>
+        <type>Table</type>
+        <update_guid>a38a3803fb8e3110de645b81de612dc7</update_guid>
+        <update_guid_history>a38a3803fb8e3110de645b81de612dc7:2121133255</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 11:46:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>17757f7705b14cb8bc2a4059f1939440</sys_id>
+        <sys_metadata>de6a70032f8e3110c4532aa62799b672</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Temas</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_db_object_de6a70032f8e3110c4532aa62799b672</sys_update_name>
+        <sys_update_version display_value="sys_db_object_de6a70032f8e3110c4532aa62799b672">6f8a38032f8e3110c4532aa62799b6c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 11:46:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

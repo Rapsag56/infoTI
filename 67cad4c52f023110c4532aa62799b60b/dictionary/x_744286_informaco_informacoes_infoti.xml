@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=false" db_object_id="a0a264cd2f023110c4532aa62799b699" extends="task" label="Informações InfoTI" max_length="40" name="x_744286_informaco_informacoes_infoti" text_index="true" type="collection">
+        <element active="false" label="Contatos" max_length="32" name="contatos" reference="x_744286_informaco_contatos_info_ti" type="reference"/>
+        <element label="Data" max_length="40" name="data" type="glide_date"/>
+        <element label="Solicitação" max_length="4000" name="descreva_sua_solicitacao" type="string"/>
+        <element label="ID Assunto" max_length="30" name="id_assunto" type="string"/>
+        <element label="Mensal" max_length="40" name="mensal" type="glide_date"/>
+        <element label="Número da Aprovação" max_length="32" name="numero_da_aprovacao" reference="x_744286_informaco_aprova_es_infoti" type="reference"/>
+        <element attributes="onchange=&quot;this.value = this.value.replace(/,/g, '.');&quot;&#13;&#10;" label="Percentual" max_length="30" name="percentual" type="string"/>
+        <element choice="1" label="Periodo" max_length="40" name="periodo_v2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mensal" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Trimestral" sequence="2" value="2"/>
+            </choice>
+        </element>
+        <element label="Pontos de atenção e/ou observações" max_length="500" name="pontos_de_atencao" type="string"/>
+        <element label="Prazo de Resposta" max_length="40" name="prazo_de_resposta" type="glide_date"/>
+        <element choice="1" label="Prioridade" max_length="40" name="prioridade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Alto"/>
+                <element inactive_on_update="false" label="Crítico"/>
+                <element inactive_on_update="false" label="Moderado"/>
+                <element inactive_on_update="false" label="Alto" sequence="0"/>
+            </choice>
+        </element>
+        <element label="Relatório Destinatário" max_length="32" name="relat_rio_destinatario" reference="x_744286_informaco_relat_rio_destinatario" type="reference"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aguardando Executivo" value="1"/>
+                <element inactive_on_update="false" label="Aguardando Gerente" value="2"/>
+            </choice>
+        </element>
+        <element label="Subcategoria" max_length="100" name="subcategoria" reference="x_744286_informaco_subacategoria" reference_qual="javascript: 'Subcategoria='+current.variables.categoria;" type="reference" use_reference_qualifier="advanced"/>
+        <element label="Tema" max_length="32" name="tema" reference="x_744286_informaco_temas_info_ti_v2" type="reference"/>
+        <element choice="1" label="Trimestre" max_length="40" name="trimestre" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1T23" value="1T23"/>
+                <element inactive_on_update="false" label="2T23" value="2T23"/>
+                <element inactive_on_update="false" label="3T23" value="3T23"/>
+                <element inactive_on_update="false" label="4T23" value="4T23"/>
+            </choice>
+        </element>
+        <element label="Valor" max_length="250" name="valor" type="decimal"/>
+    </element>
+</database>

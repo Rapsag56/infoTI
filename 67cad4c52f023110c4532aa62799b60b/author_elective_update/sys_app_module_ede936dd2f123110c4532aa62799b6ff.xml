@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Informaco 1699024939413</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_744286_informaco_1699024939413</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 15:22:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ede936dd2f123110c4532aa62799b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Informaco 1699024939413</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_app_module_ede936dd2f123110c4532aa62799b6ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-03 15:22:24</sys_updated_on>
+        <timeline_page/>
+        <title>Informaco 1699024939413</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_app_module_ede936dd2f123110c4532aa62799b6ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Informaco 1699024939413</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_744286_informaco_1699024939413</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-03 15:22:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ede936dd2f123110c4532aa62799b6ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Informaco 1699024939413</sys_name><sys_overrides/><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_app_module_ede936dd2f123110c4532aa62799b6ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-03 15:22:24</sys_updated_on><timeline_page/><title>Informaco 1699024939413</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2007274658</payload_hash>
+        <record_name>Informaco 1699024939413</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 15:22:24</sys_created_on>
+        <sys_id>61e976dd2f123110c4532aa62799b603</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b95c73f2a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-03 15:22:24</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a5e976dd971231104f904decf0c09f02</update_guid>
+        <update_guid_history>a5e976dd971231104f904decf0c09f02:2007274658</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Informaco 1699024939413">006a7edd2f123110c4532aa62799b6a6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-03 15:24:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1bbe889b708a473c84e7d3b891e09790</sys_id>
+        <sys_metadata>ede936dd2f123110c4532aa62799b6ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Informaco 1699024939413</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_app_module_ede936dd2f123110c4532aa62799b6ff</sys_update_name>
+        <sys_update_version display_value="sys_app_module_ede936dd2f123110c4532aa62799b6ff">61e976dd2f123110c4532aa62799b603</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-03 15:24:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

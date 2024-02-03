@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>false</isolate_script>
+        <messages/>
+        <name>Onload</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+    //habilita clip de anexo somente no status de "novo" e "em edição"
+   // var status = g_form.getValue('status_da_solicitacao');
+    // alert(status);
+    ///if (status === 'aguardando_aceite') {
+       // alert("entrou");
+		//this.$$('img[title="Attachments..."]')[0].up().up().down().hide();
+		this.document.getElementById('header_attachment_line').style.display="none";
+        this.document.getElementById('header_attachment_list_label').style.display = 'none';
+		
+   
+   // }
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-03 14:19:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b644f4452f233110c4532aa62799b61e</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>Onload</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_script_client_b644f4452f233110c4532aa62799b61e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-03 15:32:08</sys_updated_on>
+        <table>x_744286_informaco_aprova_es_infoti</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view>workspace-informações-infoti-0</view>
+    </sys_script_client>
+</record_update>

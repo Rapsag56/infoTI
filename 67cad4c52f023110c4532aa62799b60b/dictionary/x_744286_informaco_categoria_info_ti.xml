@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d0ddd8892f023110c4532aa62799b693" extends="sys_import_set_row" label="categoria info ti" max_length="40" name="x_744286_informaco_categoria_info_ti" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=abd01;Estacoes de trabalho;sub04;S;0000-00-00" label="abd01;Estacoes de trabalho;sub04;S;0000-00-00" max_length="40" name="u_abd01_estaco_4_s_0000_00_00" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Categoria" label="Categoria" max_length="40" name="u_categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DT INI" label="DT INI" max_length="40" name="u_dt_ini" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID_Assunto" label="ID_Assunto" max_length="40" name="u_id_assunto" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID_Assunto;Nome;ID_SUBCAT;Reg_Vig;DT_INI" label="ID_Assunto;Nome;ID_SUBCAT;Reg_Vig;DT_INI" max_length="40" name="u_id_assunto_n_reg_vig_dt_ini" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID Categoria" label="ID Categoria" max_length="40" name="u_id_categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID_SUBCAT" label="ID_SUBCAT" max_length="40" name="u_id_subcat" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nome" label="Nome" max_length="40" name="u_nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=REG VIG" label="REG VIG" max_length="40" name="u_reg_vig" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=þÿ&#0;&quot;&#0;I&#0;D&#0;_&#0;A&#0;s&#0;s&#0;u&#0;n&#0;t&#0;o&#0;&quot;&#0;;&#0;&quot;&#0;N&#0;o&#0;m&#0;e&#0;&quot;&#0;;&#0;&quot;&#0;I&#0;D&#0;_&#0;S&#0;U&#0;B&#0;C&#0;A&#0;T&#0;&quot;&#0;;&#0;&quot;&#0;R&#0;e&#0;g&#0;_&#0;V&#0;i&#0;g&#0;&quot;&#0;;&#0;&quot;&#0;D&#0;T&#0;_&#0;I&#0;N&#0;I&#0;&quot;" label="þÿ&#0;&quot;&#0;I&#0;D&#0;_&#0;A&#0;s&#0;s&#0;u&#0;n&#0;t&#0;o&#0;&quot;&#0;;&#0;&quot;&#0;N&#0;o&#0;m&#0;e&#0;&quot;&#0;;&#0;&quot;&#0;I&#0;D&#0;_&#0;S&#0;U&#0;B&#0;C&#0;A&#0;T&#0;&quot;&#0;;&#0;&quot;&#0;R&#0;e&#0;g&#0;_&#0;V&#0;i" max_length="40" name="u_þÿ___i_d___a__d_t___i_n_i__" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b2bc58492f023110c4532aa62799b66e" label="Subcategoria" max_length="40" name="x_744286_informaco_subacategoria" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="Categoria" max_length="32" name="categoria" reference="x_744286_informaco_categoria" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="ID CATEGORIA" max_length="40" name="id_categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ID SUBCAT" max_length="40" name="id_subcat" type="string"/>
+        <element label="percentual" max_length="100" name="percentual" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="REG VIG" max_length="40" name="reg_vig" type="string"/>
+        <element label="Responsáveis" max_length="4000" name="responsaveis" reference="x_744286_informaco_contatos_info_ti" type="glide_list"/>
+        <element label="Responsável SubCat" max_length="32" name="responsavel_subcat" reference="x_744286_informaco_contatos_info_ti" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Subcategoria" max_length="44" name="subcategoria" type="string"/>
+        <element label="testettet" max_length="67" name="testettet" type="string"/>
+        <index name="index">
+            <element name="categoria"/>
+        </index>
+        <index name="index2">
+            <element name="responsavel_subcat"/>
+        </index>
+    </element>
+</database>

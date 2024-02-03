@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_744286_informaco_informacoes_infoti" version="2" view="new_new">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Informações InfoTI - new new" name="x_744286_informaco_informacoes_infoti" related_list="NULL" sys_domain="global" view="7ffb16032f067110c4532aa62799b68b">537757a72f123110c4532aa62799b645</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 17:18:01</sys_created_on>
+            <sys_id>9b7757a72f123110c4532aa62799b646</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 17:18:01</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Informações InfoTI - new new</calculated_name>
+            <filter/>
+            <name>x_744286_informaco_informacoes_infoti</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-11-10 17:18:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>537757a72f123110c4532aa62799b645</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Informações InfoTI - new new</sys_name>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_ui_related_x_744286_informaco_informacoes_infoti_new_new</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-11-10 17:18:01</sys_updated_on>
+            <sys_user/>
+            <view display_value="new new" name="new_new">7ffb16032f067110c4532aa62799b68b</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

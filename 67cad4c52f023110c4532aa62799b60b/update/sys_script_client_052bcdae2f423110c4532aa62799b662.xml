@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>mudar virgula</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+
+    var fieldName = 'percentual';
+
+
+    var fieldValue = g_form.getValue(fieldName);
+
+    if (fieldValue && /[a-zA-Z]/.test(fieldValue)) {
+        g_form.showFieldMsg(fieldName, 'Não é permitido inserir letras neste campo.', 'error');
+        return false;
+    } else {
+        var n = fieldValue;
+
+        var nu = n.replace(',', '.') / 100;
+       g_form.setValue(fieldName, nu);
+    }
+
+    return true;
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-25 18:18:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>052bcdae2f423110c4532aa62799b662</sys_id>
+        <sys_mod_count>30</sys_mod_count>
+        <sys_name>mudar virgula</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_script_client_052bcdae2f423110c4532aa62799b662</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-26 12:59:53</sys_updated_on>
+        <table>x_744286_informaco_informacoes_infoti</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

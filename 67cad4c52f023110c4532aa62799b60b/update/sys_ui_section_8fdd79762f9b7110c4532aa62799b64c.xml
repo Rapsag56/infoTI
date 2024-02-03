@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Solicitação" section_id="8fdd79762f9b7110c4532aa62799b64c" sys_domain="global" table="x_744286_informaco_aprova_es_infoti" version="3" view="workspace-informações-infoti-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-27 19:53:47</sys_created_on>
+            <sys_id>1fddb9762f9b7110c4532aa62799b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Solicitação" display_value="Solicitação" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">8fdd79762f9b7110c4532aa62799b64c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-27 19:53:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relatorio_destinatario</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-27 19:53:47</sys_created_on>
+            <sys_id>13ddb9762f9b7110c4532aa62799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Solicitação" display_value="Solicitação" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">8fdd79762f9b7110c4532aa62799b64c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-27 19:53:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-27 19:53:47</sys_created_on>
+            <sys_id>17ddb9762f9b7110c4532aa62799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Solicitação" display_value="Solicitação" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">8fdd79762f9b7110c4532aa62799b64c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-27 19:53:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status_da_solicitacao</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-27 19:53:47</sys_created_on>
+            <sys_id>1bddb9762f9b7110c4532aa62799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Solicitação" display_value="Solicitação" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">8fdd79762f9b7110c4532aa62799b64c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-27 19:53:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>solitacao</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-27 19:53:47</sys_created_on>
+            <sys_id>1fddb9762f9b7110c4532aa62799b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Solicitação" display_value="Solicitação" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">8fdd79762f9b7110c4532aa62799b64c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-27 19:53:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Solicitação</caption>
+            <header>false</header>
+            <name>x_744286_informaco_aprova_es_infoti</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-27 19:53:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fdd79762f9b7110c4532aa62799b64c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_744286_informaco_aprova_es_infoti</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_ui_section_8fdd79762f9b7110c4532aa62799b64c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-27 19:53:46</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Informações InfoTI 0" name="workspace-informações-infoti-0">0a6f6ee1e1433110b10ce090cd5cd5ba</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

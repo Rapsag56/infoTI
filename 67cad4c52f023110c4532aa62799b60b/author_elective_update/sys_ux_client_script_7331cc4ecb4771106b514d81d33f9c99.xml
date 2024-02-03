@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <includes/>
+        <macroponent display_value="Catalog Item Page">ff31cc4e8e477110a3882592b6d3aaa9</macroponent>
+        <name>breadcrumbs_1_items</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "Home",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    return [{
+            "label": helpers.translateSync("Home"),
+            "icon": "home-outline",
+            "hideLabel": false
+        },
+        {
+            "label": api.data.look_up_record_2.result.name.displayValue
+        }
+    ];
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-12 16:38:12</sys_created_on>
+        <sys_id>7331cc4ecb4771106b514d81d33f9c99</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>breadcrumbs_1_items</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_client_script_7331cc4ecb4771106b514d81d33f9c99</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-12 16:38:12</sys_updated_on>
+        <target/>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ux_client_script_7331cc4ecb4771106b514d81d33f9c99</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;includes/&gt;&lt;macroponent display_value="Catalog Item Page"&gt;ff31cc4e8e477110a3882592b6d3aaa9&lt;/macroponent&gt;&lt;name&gt;breadcrumbs_1_items&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ {
+  "code" : null,
+  "message" : "Home",
+  "comment" : ""
+} ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    return [{
+            "label": helpers.translateSync("Home"),
+            "icon": "home-outline",
+            "hideLabel": false
+        },
+        {
+            "label": api.data.look_up_record_2.result.name.displayValue
+        }
+    ];
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-12 16:38:12&lt;/sys_created_on&gt;&lt;sys_id&gt;7331cc4ecb4771106b514d81d33f9c99&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;breadcrumbs_1_items&lt;/sys_name&gt;&lt;sys_package display_value="Informações InfoTI" source="x_744286_informaco"&gt;67cad4c52f023110c4532aa62799b60b&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Informações InfoTI"&gt;67cad4c52f023110c4532aa62799b60b&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_7331cc4ecb4771106b514d81d33f9c99&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-12 16:38:12&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1966003553</payload_hash>
+        <record_name>breadcrumbs_1_items</record_name>
+        <reverted_from/>
+        <source>67cad4c52f023110c4532aa62799b60d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 16:40:06</sys_created_on>
+        <sys_id>44b10c8e2f477110c4532aa62799b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5ee664d50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 16:40:06</sys_updated_on>
+        <type>UX Client Script</type>
+        <update_guid>c8b10c8ebc477110a02e3854fce58101</update_guid>
+        <update_guid_history>c8b10c8ebc477110a02e3854fce58101:1966003553</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 16:48:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>0713098c19d8487a8a560f6e985162b9</sys_id>
+        <sys_metadata>7331cc4ecb4771106b514d81d33f9c99</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>breadcrumbs_1_items</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_7331cc4ecb4771106b514d81d33f9c99</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_7331cc4ecb4771106b514d81d33f9c99">44b10c8e2f477110c4532aa62799b602</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 16:48:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

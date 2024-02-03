@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b4755d222f8bf110c4532aa62799b6c7" extends="sys_import_set_row" label="Import set Nossos Numeros Trimensal" max_length="40" name="x_744286_informaco_import_set_nossos_numeros_trimensal" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Briefing.Element:Text" label="Briefing.Element:Text" max_length="898" name="u_briefing_element_text" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Conceito.Element:Text" label="Conceito.Element:Text" max_length="338" name="u_conceito_element_text" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DT_INI" label="DT_INI" max_length="40" name="u_dt_ini" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID_Assunto" label="ID_Assunto" max_length="40" name="u_id_assunto" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nome" label="Nome" max_length="87" name="u_nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Numero.Element:Text" label="Numero.Element:Text" max_length="40" name="u_numero_element_text" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Periodo" label="Periodo" max_length="40" name="u_periodo" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Reg_Vig" label="Reg_Vig" max_length="40" name="u_reg_vig" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Valor.Element:Text" label="Valor.Element:Text" max_length="199" name="u_valor_element_text" type="string"/>
+    </element>
+</database>

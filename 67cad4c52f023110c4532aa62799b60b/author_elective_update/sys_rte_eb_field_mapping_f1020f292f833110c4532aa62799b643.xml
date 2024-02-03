@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field/>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 17:23:29</sys_created_on>
+        <sys_id>f1020f292f833110c4532aa62799b643</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="">b381c3292f833110c4532aa62799b60e</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">71020f292f833110c4532aa62799b641</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_f1020f292f833110c4532aa62799b643</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:23:29</sys_updated_on>
+        <target_sys_rte_eb_field/>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_rte_eb_field_mapping_f1020f292f833110c4532aa62799b643</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>100</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field/><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 17:23:29</sys_created_on><sys_id>f1020f292f833110c4532aa62799b643</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_rte_eb_definition display_value="">b381c3292f833110c4532aa62799b60e</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">71020f292f833110c4532aa62799b641</sys_rte_eb_entity_mapping><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_rte_eb_field_mapping_f1020f292f833110c4532aa62799b643</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 17:23:29</sys_updated_on><target_sys_rte_eb_field/></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>-2142803775</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>3efc178bb4a32110320f8dc279c80415</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-11 17:26:03</sys_created_on>
+        <sys_id>939203a92f833110c4532aa62799b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c59ea192d0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:26:03</sys_updated_on>
+        <type>RTE Field Mapping</type>
+        <update_guid>9f9203a9c98331103769f3f59d973dc3</update_guid>
+        <update_guid_history>9f9203a9c98331103769f3f59d973dc3:0,19920f6987833110ce19c1f5eac86f2a:0,b1020f299583311080bfc5bc372c9544:1614117979</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-11 17:26:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>3af3cc206677403a90a99c7e65712484</sys_id>
+        <sys_metadata>f1020f292f833110c4532aa62799b643</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_f1020f292f833110c4532aa62799b643</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_f1020f292f833110c4532aa62799b643">939203a92f833110c4532aa62799b6c4</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:26:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

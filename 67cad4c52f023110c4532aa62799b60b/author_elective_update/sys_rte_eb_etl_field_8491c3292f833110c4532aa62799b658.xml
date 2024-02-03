@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field">
+    <sys_rte_eb_etl_field action="DELETE">
+        <coalesce>false</coalesce>
+        <coercion_action>create</coercion_action>
+        <field>u_executivo_aprovador</field>
+        <name>Executivo Aprovador</name>
+        <sys_class_name>sys_rte_eb_etl_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 17:21:28</sys_created_on>
+        <sys_id>8491c3292f833110c4532aa62799b658</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Executivo Aprovador</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Solicitações Data Mapping_etl_ihub">b381c3292f833110c4532aa62799b60e</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Source_x_744286_informaco_ihub_import_138147e52f833110c4532aa62799b67f">8c91c3292f833110c4532aa62799b64e</sys_rte_eb_entity>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_field_8491c3292f833110c4532aa62799b658</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:21:28</sys_updated_on>
+    </sys_rte_eb_etl_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_rte_eb_etl_field_8491c3292f833110c4532aa62799b658</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_field"><sys_rte_eb_etl_field action="INSERT_OR_UPDATE"><coalesce>false</coalesce><coercion_action>create</coercion_action><field>u_executivo_aprovador</field><name>Executivo Aprovador</name><sys_class_name>sys_rte_eb_etl_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 17:21:28</sys_created_on><sys_id>8491c3292f833110c4532aa62799b658</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Executivo Aprovador</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_rte_eb_definition display_value="Solicitações Data Mapping_etl_ihub">b381c3292f833110c4532aa62799b60e</sys_rte_eb_definition><sys_rte_eb_entity display_value="Source_x_744286_informaco_ihub_import_138147e52f833110c4532aa62799b67f">8c91c3292f833110c4532aa62799b64e</sys_rte_eb_entity><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_rte_eb_etl_field_8491c3292f833110c4532aa62799b658</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 17:21:28</sys_updated_on></sys_rte_eb_etl_field></record_update>]]></payload>
+        <payload_hash>1075209266</payload_hash>
+        <record_name>Executivo Aprovador</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 17:21:28</sys_created_on>
+        <sys_id>0091c3292f833110c4532aa62799b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c59e5e7d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:21:28</sys_updated_on>
+        <type>ETL Entity field</type>
+        <update_guid>4491c329bd8331102e2e1a6cfe752759</update_guid>
+        <update_guid_history>4491c329bd8331102e2e1a6cfe752759:1075209266</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-11 17:26:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_etl_field">sys_rte_eb_etl_field</sys_db_object>
+        <sys_id>a73ea45d983d49e982ef62383ec4e2d1</sys_id>
+        <sys_metadata>8491c3292f833110c4532aa62799b658</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Executivo Aprovador</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_etl_field_8491c3292f833110c4532aa62799b658</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_etl_field_8491c3292f833110c4532aa62799b658">0091c3292f833110c4532aa62799b65a</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-11 17:26:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

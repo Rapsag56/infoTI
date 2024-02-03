@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Informações InfoTI">8e6f6ee16a433110dff7a731d34d52c4</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 16:02:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>826f6ee15943311084dfe9b59a76c9b4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_ux_page_property_826f6ee15943311084dfe9b59a76c9b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 16:02:16</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_744286_informaco.8e6f6ee16a433110dff7a731d34d52c4.root.wbApplicabilityConfigId</unique_name>
+        <value>376faee12f433110c4532aa62799b6bd</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=826f6ee15943311084dfe9b59a76c9b4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ux_page_property_826f6ee15943311084dfe9b59a76c9b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>sys_ux_applicability sys_id for Workspace audience</description><name>wbApplicabilityConfigId</name><page display_value="Informações InfoTI">8e6f6ee16a433110dff7a731d34d52c4</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-11 16:02:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>826f6ee15943311084dfe9b59a76c9b4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>wbApplicabilityConfigId</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_ux_page_property_826f6ee15943311084dfe9b59a76c9b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-11 16:02:16</sys_updated_on><type>string</type><unique_name>x_744286_informaco.8e6f6ee16a433110dff7a731d34d52c4.root.wbApplicabilityConfigId</unique_name><value>376faee12f433110c4532aa62799b6bd</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=826f6ee15943311084dfe9b59a76c9b4"/></record_update>]]></payload>
+        <payload_hash>-678190977</payload_hash>
+        <record_name>wbApplicabilityConfigId</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 16:02:16</sys_created_on>
+        <sys_id>7b6faee12f433110c4532aa62799b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c599d641f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 16:02:16</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>336faee17b433110a6d43c9d7ae605d1</update_guid>
+        <update_guid_history>336faee17b433110a6d43c9d7ae605d1:-678190977,bb6faee1644331106a6e9d40276689cf:1140643749</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 22:34:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>87f33f310ebd4dc08c947c9b1fafb840</sys_id>
+        <sys_metadata>826f6ee15943311084dfe9b59a76c9b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_826f6ee15943311084dfe9b59a76c9b4</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_826f6ee15943311084dfe9b59a76c9b4">7b6faee12f433110c4532aa62799b6d1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-11 22:34:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

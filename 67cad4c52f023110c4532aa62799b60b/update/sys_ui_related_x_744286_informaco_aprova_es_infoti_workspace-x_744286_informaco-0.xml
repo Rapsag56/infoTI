@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_744286_informaco_aprova_es_infoti" version="2" view="Workspace-x_744286_informaco-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Aprovações InfoTI - Workspace-x 744286 informaco-0" name="x_744286_informaco_aprova_es_infoti" related_list="NULL" sys_domain="global" view="8a59007133c7311068dee0afaa8787ee">6f6984712fc73110c4532aa62799b6c7</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_744286_informaco_informacoes_infoti.numero_da_aprovacao</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 22:35:27</sys_created_on>
+            <sys_id>ab6984712fc73110c4532aa62799b6c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 22:35:27</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Aprovações InfoTI - Workspace-x 744286 informaco-0" name="x_744286_informaco_aprova_es_infoti" related_list="NULL" sys_domain="global" view="8a59007133c7311068dee0afaa8787ee">6f6984712fc73110c4532aa62799b6c7</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 22:35:27</sys_created_on>
+            <sys_id>e36984712fc73110c4532aa62799b6ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 22:35:27</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Aprovações InfoTI - Workspace-x 744286 informaco-0</calculated_name>
+            <filter/>
+            <name>x_744286_informaco_aprova_es_infoti</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-11 22:35:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f6984712fc73110c4532aa62799b6c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Aprovações InfoTI - Workspace-x 744286 informaco-0</sys_name>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_ui_related_x_744286_informaco_aprova_es_infoti_Workspace-x_744286_informaco-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-11 22:35:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace-x 744286 informaco-0" name="Workspace-x_744286_informaco-0">8a59007133c7311068dee0afaa8787ee</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

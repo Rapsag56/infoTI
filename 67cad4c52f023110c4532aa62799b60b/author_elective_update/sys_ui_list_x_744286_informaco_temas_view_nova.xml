@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_744286_informaco_temas" version="2" view="view_nova">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_dt_ini</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>3138308f2f4e3110c4532aa62799b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_id_assunto</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>b138308f2f4e3110c4532aa62799b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_id_subcat</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>3538308f2f4e3110c4532aa62799b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_nome</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>b538308f2f4e3110c4532aa62799b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_reg_vig</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>3938308f2f4e3110c4532aa62799b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_sys_created_by</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>b938308f2f4e3110c4532aa62799b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_sys_created_on</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>3d38308f2f4e3110c4532aa62799b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_sys_id</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>bd38308f2f4e3110c4532aa62799b639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_sys_mod_count</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>3138308f2f4e3110c4532aa62799b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_sys_tags</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>b138308f2f4e3110c4532aa62799b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_id_subcat.subcategoria</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>3538308f2f4e3110c4532aa62799b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_id_subcat.categoria</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>b538308f2f4e3110c4532aa62799b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_id_subcat.id_categoria</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>3938308f2f4e3110c4532aa62799b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>categoria_id_subcat.responsavel_subcat</element>
+            <list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_id>b938308f2f4e3110c4532aa62799b63a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_744286_informaco_temas</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7538308f2f4e3110c4532aa62799b638</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_744286_informaco_temas</sys_name>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_ui_list_x_744286_informaco_temas_view_nova</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+            <sys_user/>
+            <view display_value="view nova" name="view_nova">8d38fc4f2f4e3110c4532aa62799b68a</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ui_list_x_744286_informaco_temas_view_nova</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_744286_informaco_temas" version="2" view="view_nova"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_dt_ini</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>3138308f2f4e3110c4532aa62799b639</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_id_assunto</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>b138308f2f4e3110c4532aa62799b639</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_id_subcat</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>3538308f2f4e3110c4532aa62799b639</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_nome</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>b538308f2f4e3110c4532aa62799b639</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_reg_vig</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>3938308f2f4e3110c4532aa62799b639</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_sys_created_by</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>b938308f2f4e3110c4532aa62799b639</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_sys_created_on</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>3d38308f2f4e3110c4532aa62799b639</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_sys_id</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>bd38308f2f4e3110c4532aa62799b639</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_sys_mod_count</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>3138308f2f4e3110c4532aa62799b63a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_sys_tags</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>9</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>b138308f2f4e3110c4532aa62799b63a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_id_subcat.subcategoria</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>10</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>3538308f2f4e3110c4532aa62799b63a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_id_subcat.categoria</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>11</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>b538308f2f4e3110c4532aa62799b63a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_id_subcat.id_categoria</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>12</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>3938308f2f4e3110c4532aa62799b63a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>categoria_id_subcat.responsavel_subcat</element><list_id display_value="x_744286_informaco_temas" element="NULL" name="x_744286_informaco_temas" parent="NULL" relationship="NULL" sys_domain="global" view="8d38fc4f2f4e3110c4532aa62799b68a">7538308f2f4e3110c4532aa62799b638</list_id><max_value>false</max_value><min_value>false</min_value><position>13</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_id>b938308f2f4e3110c4532aa62799b63a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_744286_informaco_temas</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 06:09:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7538308f2f4e3110c4532aa62799b638</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_744286_informaco_temas</sys_name><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_ui_list_x_744286_informaco_temas_view_nova</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 06:09:30</sys_updated_on><sys_user/><view display_value="view nova" name="view_nova">8d38fc4f2f4e3110c4532aa62799b68a</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1830668396</payload_hash>
+        <record_name>Informaco temas</record_name>
+        <reverted_from/>
+        <source>67cad4c52f023110c4532aa62799b60d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 06:09:30</sys_created_on>
+        <sys_id>3938308f2f4e3110c4532aa62799b63d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b6fc0868e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 06:09:30</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>fd38308f784e311065f3449f8cf12a3c</update_guid>
+        <update_guid_history>fd38308f784e311065f3449f8cf12a3c:-1830668396,0d38fc4ff14e31109f41667eed777e92:-1989903814</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 11:46:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>1ab3f2613db64f64baad975481f57090</sys_id>
+        <sys_metadata>7538308f2f4e3110c4532aa62799b638</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_744286_informaco_temas</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent display_value="">de6a70032f8e3110c4532aa62799b672</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_744286_informaco_temas_view_nova</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_744286_informaco_temas_view_nova">3938308f2f4e3110c4532aa62799b63d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 11:46:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

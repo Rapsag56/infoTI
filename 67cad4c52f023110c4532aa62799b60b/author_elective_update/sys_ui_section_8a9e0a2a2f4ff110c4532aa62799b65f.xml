@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Histórico / Fale conosco" section_id="8a9e0a2a2f4ff110c4532aa62799b65f" sys_domain="global" table="x_744286_informaco_aprova_es_infoti" version="3" view="workspace-informações-infoti-0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-14 16:17:04</sys_created_on>
+            <sys_id>8a9f8a6a2f4ff110c4532aa62799b66e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Histórico / Fale conosco" display_value="Histórico / Fale conosco" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">8a9e0a2a2f4ff110c4532aa62799b65f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-14 16:17:04</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-14 16:17:04</sys_created_on>
+            <sys_id>429f8a6a2f4ff110c4532aa62799b66f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Histórico / Fale conosco" display_value="Histórico / Fale conosco" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">8a9e0a2a2f4ff110c4532aa62799b65f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-14 16:17:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Histórico / Fale conosco</caption>
+            <header>false</header>
+            <name>x_744286_informaco_aprova_es_infoti</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-14 16:12:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a9e0a2a2f4ff110c4532aa62799b65f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_744286_informaco_aprova_es_infoti</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+            <sys_update_name>sys_ui_section_8a9e0a2a2f4ff110c4532aa62799b65f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-14 16:17:03</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace Informações InfoTI 0" name="workspace-informações-infoti-0">0a6f6ee1e1433110b10ce090cd5cd5ba</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</application>
+        <file_path/>
+        <instance_id>7a95223edbd513443353f22ebf96196c</instance_id>
+        <instance_name>dev55662</instance_name>
+        <name>sys_ui_section_8a9e0a2a2f4ff110c4532aa62799b65f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Histórico / Fale conosco" section_id="8a9e0a2a2f4ff110c4532aa62799b65f" sys_domain="global" table="x_744286_informaco_aprova_es_infoti" version="3" view="workspace-informações-infoti-0"><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-14 16:17:04</sys_created_on><sys_id>8a9f8a6a2f4ff110c4532aa62799b66e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Histórico / Fale conosco" display_value="Histórico / Fale conosco" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">8a9e0a2a2f4ff110c4532aa62799b65f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-14 16:17:04</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-14 16:17:04</sys_created_on><sys_id>429f8a6a2f4ff110c4532aa62799b66f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Histórico / Fale conosco" display_value="Histórico / Fale conosco" name="x_744286_informaco_aprova_es_infoti" sys_domain="global" view="0a6f6ee1e1433110b10ce090cd5cd5ba">8a9e0a2a2f4ff110c4532aa62799b65f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-14 16:17:04</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Histórico / Fale conosco</caption><header>false</header><name>x_744286_informaco_aprova_es_infoti</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-14 16:12:42</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8a9e0a2a2f4ff110c4532aa62799b65f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_744286_informaco_aprova_es_infoti</sys_name><sys_overrides/><sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package><sys_policy/><sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope><sys_update_name>sys_ui_section_8a9e0a2a2f4ff110c4532aa62799b65f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-14 16:17:03</sys_updated_on><sys_user/><title>false</title><view display_value="Workspace Informações InfoTI 0" name="workspace-informações-infoti-0">0a6f6ee1e1433110b10ce090cd5cd5ba</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1242644920</payload_hash>
+        <record_name>Aprovações InfoTI</record_name>
+        <reverted_from/>
+        <source>c36fe6032f467110c4532aa62799b67e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 16:17:04</sys_created_on>
+        <sys_id>029f8a6a2f4ff110c4532aa62799b671</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c691e04c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 16:17:04</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>869f8a6ae24ff110a123a6c29a62ce70</update_guid>
+        <update_guid_history>869f8a6ae24ff110a123a6c29a62ce70:1242644920,bd9f4a6ac44ff1107361c7547befd5e7:-1022945407,1a9e0a2a604ff110a94ea837312715b9:797239588</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 16:17:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>48ee7fbc9329416496c350377a04b610</sys_id>
+        <sys_metadata>8a9e0a2a2f4ff110c4532aa62799b65f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Histórico / Fale conosco</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_parent display_value="Aprovações InfoTI">b0b2ee902f123110c4532aa62799b69c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_scope_delete display_value="">4192886287374f0a8223fcac85b82f84</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8a9e0a2a2f4ff110c4532aa62799b65f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8a9e0a2a2f4ff110c4532aa62799b65f">029f8a6a2f4ff110c4532aa62799b671</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 16:17:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

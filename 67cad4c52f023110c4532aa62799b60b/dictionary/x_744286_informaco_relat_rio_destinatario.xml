@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e66a83e12fc33110c4532aa62799b65f" label="Relatório Destinatário" max_length="40" name="x_744286_informaco_relat_rio_destinatario" text_index="true" type="collection">
+        <element display="true" label="Name" max_length="160" name="name" type="string"/>
+    </element>
+</database>

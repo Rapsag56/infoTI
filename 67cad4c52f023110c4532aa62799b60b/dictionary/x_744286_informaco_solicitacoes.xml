@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f3b30be92f833110c4532aa62799b63b" extends="task" label="Solicitações" max_length="40" name="x_744286_informaco_solicitacoes" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Aceitar Solicitação" max_length="40" name="aceitar_solicita_o" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sim" sequence="0" value="sim"/>
+                <element inactive_on_update="false" label="Não" sequence="1" value="n_o"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Categoria" max_length="32" name="categoria" reference="x_744286_informaco_categoria" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Executivo Aprovador" max_length="32" name="executivo_aprovador" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Gerente Aprovador  ( Info TI )" max_length="32" name="gerente_aprovador_info_ti" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Gerente / Especialista" max_length="32" name="gerente_especialista" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Indicar Gerente Validador " max_length="40" name="indicar_gerente_validador" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Justificativa" max_length="40" name="justificativa" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number 2" max_length="40" name="number_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ponto(s) Focal(is)" max_length="32" name="ponto_s_focal_is" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Prazo de Resposta" max_length="40" name="prazo_de_resposta" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Relatório Destinatário" max_length="40" name="relat_rio_destinat_rio" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status da solicitação" max_length="40" name="status_da_solicita_o" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aguardando Aceite" sequence="0" value="aguardando_aceite"/>
+                <element inactive_on_update="false" label="Aguardando Gerente InfoTi" sequence="1" value="aguardando_gerente_infoti"/>
+                <element inactive_on_update="false" label="Em Andamento" sequence="2" value="em_andamento"/>
+                <element inactive_on_update="false" label="Aguardando Gerente" sequence="3" value="aguardando_gerente"/>
+                <element inactive_on_update="false" label="Aguardando Executivo" sequence="4" value="aguardando_executivo"/>
+                <element inactive_on_update="false" label="Consolidação" sequence="5" value="consolidacao"/>
+                <element inactive_on_update="false" label="Concluído" sequence="6" value="concluido"/>
+                <element inactive_on_update="false" label="Excluido" sequence="7" value="excluido"/>
+                <element inactive_on_update="false" label="Em Edição" sequence="8" value="em_edi_o"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="SubCategoria" max_length="32" name="subcategoria" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated" max_length="40" name="updated" type="glide_date_time"/>
+    </element>
+</database>

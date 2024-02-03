@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "sysId" : "656728052f423110c4532aa62799b6d8"
+}</macroponent_config>
+        <screen display_value="Catalog Item Page Default">3f31cc4e454771104c3f6a1ab8cb737f</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 16:40:06</sys_created_on>
+        <sys_id>b3a1488e2f477110c4532aa62799b64c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_b3a1488e2f477110c4532aa62799b64c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 16:41:17</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

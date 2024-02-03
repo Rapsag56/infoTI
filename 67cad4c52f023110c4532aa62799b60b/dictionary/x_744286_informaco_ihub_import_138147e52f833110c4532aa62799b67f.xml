@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7d7207692f833110c4532aa62799b6af" extends="sys_import_set_row" label="Solicitações Data Mapping" max_length="40" name="x_744286_informaco_ihub_import_138147e52f833110c4532aa62799b67f" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Aceitar Solicitação" label="Aceitar Solicitação" max_length="40" name="u_aceitar_solicitação" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Approval" label="Approval" max_length="40" name="u_approval" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Categoria" label="Categoria" max_length="40" name="u_categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Executivo Aprovador" label="Executivo Aprovador" max_length="41" name="u_executivo_aprovador" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gerente Aprovador  ( Info TI )" label="Gerente Aprovador  ( Info TI )" max_length="40" name="u_gerente_apro_r____info_ti__" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Gerente / Especialista" label="Gerente / Especialista" max_length="83" name="u_gerente___especialista" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Indicar Gerente Validador" label="Indicar Gerente Validador " max_length="40" name="u_indicar_gerente_validador" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Justificativa" label="Justificativa" max_length="40" name="u_justificativa" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Ponto(s) Focal(is)" label="Ponto(s) Focal(is)" max_length="73" name="u_ponto_s__focal_is_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Prazo de Resposta" label="Prazo de Resposta" max_length="40" name="u_prazo_de_resposta" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Relatório Destinatário" label="Relatório Destinatário" max_length="40" name="u_relatório_destinatário" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short description" label="Short description" max_length="91" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Status da solicitação" label="Status da solicitação" max_length="40" name="u_status_da_solicitação" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SubCategoria" label="SubCategoria" max_length="82" name="u_subcategoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Updated" label="Updated" max_length="40" name="u_updated" type="glide_date_time"/>
+    </element>
+</database>

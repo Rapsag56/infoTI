@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a04c10492f023110c4532aa62799b647" label="Categoria" max_length="40" name="x_744286_informaco_categoria" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Categoria" max_length="40" name="categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DT INI" max_length="40" name="dt_ini" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="ID_Assunto" max_length="40" name="id_categoria" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="REG VIG" max_length="40" name="reg_vig" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="66e615822fcb7110c4532aa62799b6b3" label="Nossos Números Mensal" max_length="40" name="x_744286_informaco_nossos_numeros_mensal" type="collection">
+        <element label="Data" max_length="800" name="data" type="data_structure"/>
+        <element label="DT INI" max_length="40" name="dt_ini" type="glide_date"/>
+        <element label="ID Assunto" max_length="32" name="id_assunto" reference="x_744286_informaco_temas_info_ti_v2" type="reference"/>
+        <element label="Número" max_length="100" name="numero" type="string"/>
+        <element label="Subcategoria" max_length="32" name="subcategoria" reference="x_744286_informaco_subacategoria" type="reference"/>
+        <element label="Valor" max_length="40" name="valor" type="integer"/>
+        <index name="index">
+            <element name="id_assunto"/>
+        </index>
+        <index name="index2">
+            <element name="subcategoria"/>
+        </index>
+    </element>
+</database>
