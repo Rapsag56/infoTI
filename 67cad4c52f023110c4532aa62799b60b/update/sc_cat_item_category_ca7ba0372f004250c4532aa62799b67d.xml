@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Informações de Pessoas e Cultura">f15b20372f004250c4532aa62799b6c5</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-05 23:14:49</sys_created_on>
+        <sys_id>ca7ba0372f004250c4532aa62799b67d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Informações de Pessoas e Cultura</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sc_cat_item_category_ca7ba0372f004250c4532aa62799b67d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-05 23:14:49</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

@@ -6,7 +6,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Executivo Aprovador" label="Executivo Aprovador" max_length="41" name="u_executivo_aprovador" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Gerente Aprovador  ( Info TI )" label="Gerente Aprovador  ( Info TI )" max_length="40" name="u_gerente_apro_r____info_ti__" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Gerente / Especialista" label="Gerente / Especialista" max_length="83" name="u_gerente___especialista" type="string"/>
-        <element attributes="edge_encryption_enabled=true,import_attribute_name=Indicar Gerente Validador" label="Indicar Gerente Validador " max_length="40" name="u_indicar_gerente_validador" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Indicar Gerente Validador" label="Indicar Gerente Validador" max_length="40" name="u_indicar_gerente_validador" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Justificativa" label="Justificativa" max_length="40" name="u_justificativa" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Number" label="Number" max_length="40" name="u_number" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Ponto(s) Focal(is)" label="Ponto(s) Focal(is)" max_length="73" name="u_ponto_s__focal_is_" type="string"/>

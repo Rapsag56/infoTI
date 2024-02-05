@@ -6,7 +6,7 @@
         <element label="ID Assunto" max_length="30" name="id_assunto" type="string"/>
         <element label="Mensal" max_length="40" name="mensal" type="glide_date"/>
         <element label="Número da Aprovação" max_length="32" name="numero_da_aprovacao" reference="x_744286_informaco_aprova_es_infoti" type="reference"/>
-        <element attributes="onchange=&quot;this.value = this.value.replace(/,/g, '.');&quot;&#13;&#10;" label="Percentual" max_length="30" name="percentual" type="string"/>
+        <element attributes="onchange=&quot;this.value = this.value.replace(/,/g, '.');&quot;" label="Percentual" max_length="30" name="percentual" type="string"/>
         <element choice="1" label="Periodo" max_length="40" name="periodo_v2" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Mensal" sequence="1" value="1"/>

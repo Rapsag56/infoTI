@@ -10,7 +10,7 @@
         <element attributes="edge_encryption_enabled=true" label="Executivo Aprovador" max_length="32" name="executivo_aprovador" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Gerente Aprovador  ( Info TI )" max_length="32" name="gerente_aprovador_info_ti" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Gerente / Especialista" max_length="32" name="gerente_especialista" reference="sys_user" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="Indicar Gerente Validador " max_length="40" name="indicar_gerente_validador" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Indicar Gerente Validador" max_length="40" name="indicar_gerente_validador" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Justificativa" max_length="40" name="justificativa" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number 2" max_length="40" name="number_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Ponto(s) Focal(is)" max_length="32" name="ponto_s_focal_is" reference="sys_user" type="reference"/>
