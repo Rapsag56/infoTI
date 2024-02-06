@@ -7,6 +7,7 @@
             </choice>
         </element>
         <element label="Gerente Aprovador (Info TI)" max_length="4000" name="aprovadores" reference="sys_user" type="glide_list"/>
+        <element label="Categoria" max_length="500" name="categoria" type="string"/>
         <element label="Executivo Aprovador" max_length="4000" name="executivo_aprovador" reference="sys_user" type="glide_list"/>
         <element label="Gerente /Especialista" max_length="4000" name="gerente_especialista" reference="sys_user" type="glide_list"/>
         <element label="Gerente Validador" max_length="4000" name="gerente_validador" reference="sys_user" type="glide_list"/>

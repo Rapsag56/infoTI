@@ -81,6 +81,7 @@ gr2.aprovadores = producer.gerente_aprovador_info_ti;
 gr2.solitacao = producer.descreva_sua_solicitacao;
 gr2.relatorio_destinatario = producer.relat_rio_destinatario;
 gr2.status_da_solicitacao = "aguardando_gerente_infoti";
+gr2.categoria = producer.categoria_v2;
 var temaValues = [];
 for (var n = 0; n < json.length; n++) {
     temaValues.push(json[n].temav2);
@@ -114,14 +115,14 @@ current.setAbortAction(true);]]></script>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-20 23:50:10</sys_created_on>
         <sys_id>656728052f423110c4532aa62799b6d8</sys_id>
-        <sys_mod_count>43</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_name>Informações InfoTI</sys_name>
         <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
         <sys_update_name>sc_cat_item_producer_656728052f423110c4532aa62799b6d8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-05 23:18:53</sys_updated_on>
+        <sys_updated_on>2024-02-06 18:10:38</sys_updated_on>
         <table_name>x_744286_informaco_informacoes_infoti</table_name>
         <taxonomy_topic/>
         <template/>
