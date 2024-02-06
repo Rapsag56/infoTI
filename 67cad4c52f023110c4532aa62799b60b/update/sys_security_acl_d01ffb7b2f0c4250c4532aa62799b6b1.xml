@@ -4,22 +4,22 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_744286_informaco_tabela_das_putas</description>
-        <name>x_744286_informaco_tabela_das_putas</name>
-        <operation display_value="write">write</operation>
+        <description/>
+        <name>utilitiesNowProClient</name>
+        <operation display_value="execute">execute</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-02-06 03:51:19</sys_created_on>
-        <sys_id>24cae5ff2fc04250c4532aa62799b6e4</sys_id>
+        <sys_created_on>2024-02-06 14:39:17</sys_created_on>
+        <sys_id>d01ffb7b2f0c4250c4532aa62799b6b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_744286_informaco_tabela_das_putas</sys_name>
+        <sys_name>utilitiesNowProClient</sys_name>
         <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
-        <sys_update_name>sys_security_acl_24cae5ff2fc04250c4532aa62799b6e4</sys_update_name>
+        <sys_update_name>sys_security_acl_d01ffb7b2f0c4250c4532aa62799b6b1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-02-06 03:51:19</sys_updated_on>
-        <type display_value="record">record</type>
+        <sys_updated_on>2024-02-06 14:39:17</sys_updated_on>
+        <type display_value="client_callable_script_include">client_callable_script_include</type>
     </sys_security_acl>
 </record_update>

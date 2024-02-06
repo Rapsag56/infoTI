@@ -3,17 +3,92 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_744286_informaco_aprova_es_infoti" element="NULL" name="x_744286_informaco_aprova_es_infoti" parent="NULL" relationship="NULL" sys_domain="global" view="0ed10b9c2f123110c4532aa62799b6c2">557a63ee2f967110c4532aa62799b685</list_id>
+            <list_id display_value="x_744286_informaco_aprova_es_infoti" element="NULL" name="x_744286_informaco_aprova_es_infoti" parent="NULL" relationship="NULL" sys_domain="global" view="0ed10b9c2f123110c4532aa62799b6c2">6c58ec042fdc4250c4532aa62799b63f</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-07 16:06:58</sys_created_on>
-            <sys_id>117a63ee2f967110c4532aa62799b686</sys_id>
+            <sys_created_on>2024-02-06 17:39:33</sys_created_on>
+            <sys_id>e458ec042fdc4250c4532aa62799b640</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-07 16:06:58</sys_updated_on>
+            <sys_updated_on>2024-02-06 17:39:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>numero_da_aprovacao.subcategoria.categoria</element>
+            <list_id display_value="x_744286_informaco_aprova_es_infoti" element="NULL" name="x_744286_informaco_aprova_es_infoti" parent="NULL" relationship="NULL" sys_domain="global" view="0ed10b9c2f123110c4532aa62799b6c2">6c58ec042fdc4250c4532aa62799b63f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-06 17:39:33</sys_created_on>
+            <sys_id>6858ec042fdc4250c4532aa62799b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-06 17:39:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>numero_da_aprovacao.subcategoria.id_categoria</element>
+            <list_id display_value="x_744286_informaco_aprova_es_infoti" element="NULL" name="x_744286_informaco_aprova_es_infoti" parent="NULL" relationship="NULL" sys_domain="global" view="0ed10b9c2f123110c4532aa62799b6c2">6c58ec042fdc4250c4532aa62799b63f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-06 17:39:33</sys_created_on>
+            <sys_id>e858ec042fdc4250c4532aa62799b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-06 17:39:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>numero_da_aprovacao.subcategoria.id_subcat</element>
+            <list_id display_value="x_744286_informaco_aprova_es_infoti" element="NULL" name="x_744286_informaco_aprova_es_infoti" parent="NULL" relationship="NULL" sys_domain="global" view="0ed10b9c2f123110c4532aa62799b6c2">6c58ec042fdc4250c4532aa62799b63f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-06 17:39:33</sys_created_on>
+            <sys_id>6c58ec042fdc4250c4532aa62799b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-06 17:39:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>numero_da_aprovacao.subcategoria.subcategoria</element>
+            <list_id display_value="x_744286_informaco_aprova_es_infoti" element="NULL" name="x_744286_informaco_aprova_es_infoti" parent="NULL" relationship="NULL" sys_domain="global" view="0ed10b9c2f123110c4532aa62799b6c2">6c58ec042fdc4250c4532aa62799b63f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-06 17:39:33</sys_created_on>
+            <sys_id>ec58ec042fdc4250c4532aa62799b640</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-06 17:39:33</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>numero_da_aprovacao</element>
+            <list_id display_value="x_744286_informaco_aprova_es_infoti" element="NULL" name="x_744286_informaco_aprova_es_infoti" parent="NULL" relationship="NULL" sys_domain="global" view="0ed10b9c2f123110c4532aa62799b6c2">6c58ec042fdc4250c4532aa62799b63f</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-06 17:39:33</sys_created_on>
+            <sys_id>6058ec042fdc4250c4532aa62799b641</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-06 17:39:33</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -27,10 +102,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-11-07 16:06:58</sys_created_on>
+            <sys_created_on>2024-02-06 17:39:33</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>557a63ee2f967110c4532aa62799b685</sys_id>
+            <sys_id>6c58ec042fdc4250c4532aa62799b63f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_744286_informaco_aprova_es_infoti</sys_name>
             <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
@@ -38,7 +113,7 @@
             <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
             <sys_update_name>sys_ui_list_x_744286_informaco_aprova_es_infoti_view_aprovações</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-11-07 16:06:58</sys_updated_on>
+            <sys_updated_on>2024-02-06 17:39:33</sys_updated_on>
             <sys_user/>
             <view display_value="view aprovações" name="view_aprovações">0ed10b9c2f123110c4532aa62799b6c2</view>
             <view_name/>

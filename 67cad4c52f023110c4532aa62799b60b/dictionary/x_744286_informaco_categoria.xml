@@ -4,5 +4,6 @@
         <element attributes="edge_encryption_enabled=true" label="DT INI" max_length="40" name="dt_ini" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="ID_Assunto" max_length="40" name="id_categoria" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="REG VIG" max_length="40" name="reg_vig" type="string"/>
+        <element label="Responsável" max_length="4000" name="responsavel" reference="sys_user" type="glide_list"/>
     </element>
 </database>

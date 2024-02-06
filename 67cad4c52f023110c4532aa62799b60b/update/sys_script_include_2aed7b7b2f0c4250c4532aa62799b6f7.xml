@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_744286_informaco.utilitiesNowProClient</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>utilitiesNowProClient</name>
+        <script><![CDATA[var utilitiesNowProClient = Class.create();
+utilitiesNowProClient.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    getSysIdUser: function() {
+        var nomeUsuario = this.getParameter('sysparm_nomeUser');
+        var gr = new GlideRecord('sys_user');
+        gr.addEncodedQuery("name=" + nomeUsuario);
+        gr.query();
+
+        while(gr.next()) {
+            var sys_id = gr.getUniqueValue();
+
+            return sys_id;
+
+        }
+       
+
+    },
+
+    type: 'utilitiesNowProClient'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-06 14:39:17</sys_created_on>
+        <sys_id>2aed7b7b2f0c4250c4532aa62799b6f7</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>utilitiesNowProClient</sys_name>
+        <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
+        <sys_update_name>sys_script_include_2aed7b7b2f0c4250c4532aa62799b6f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-06 14:58:25</sys_updated_on>
+    </sys_script_include>
+</record_update>

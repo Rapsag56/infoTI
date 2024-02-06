@@ -56,10 +56,8 @@
         <record/>
         <record_producer_table>x_744286_informaco_informacoes_infoti</record_producer_table>
         <reference>x_744286_informaco_categoria</reference>
-        <reference_qual>javascript:"ID_Assunto=" + current.Categoria</reference_qual>
-        <reference_qual_condition table="x_744286_informaco_categoria">reg_vig=S^EQ<item endquery="false" field="reg_vig" goto="false" newquery="false" operator="=" or="false" value="S"/>
-            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
-        </reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -79,21 +77,21 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-10-27 11:55:54</sys_created_on>
         <sys_id>d857cacb2f827110c4532aa62799b6c5</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Categoria</sys_name>
         <sys_package display_value="Informações InfoTI" source="x_744286_informaco">67cad4c52f023110c4532aa62799b60b</sys_package>
         <sys_policy/>
         <sys_scope display_value="Informações InfoTI">67cad4c52f023110c4532aa62799b60b</sys_scope>
         <sys_update_name>item_option_new_d857cacb2f827110c4532aa62799b6c5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-21 18:41:42</sys_updated_on>
+        <sys_updated_on>2024-02-06 13:59:28</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
-        <use_reference_qualifier>advanced</use_reference_qualifier>
+        <use_reference_qualifier>simple</use_reference_qualifier>
         <validate_regex/>
         <variable_name/>
         <variable_set/>
